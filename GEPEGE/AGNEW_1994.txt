@@ -1,0 +1,105 @@
+Bib
+
+    AGNEW, J. A. The national versus the contextual: the controversy over measuring electoral change in Italy using Goodman flow-of-vote estimates. Political Geography, v. 13, n. 3, p. 245–254, 1994.
+
+245 - Métodos tradicionais de estudos sobre mudanças eleitoral
+
+    Swing: lidando com as mudanças eleitorais em nível nacional. Especialmente entre dois partidos.
+
+    Flow: lidando com as mudanças entre vários partidos. NP: volatilidade eleitoral?
+
+
+245 - Problema do Flow Nacional
+
+    Alguns métodos buscavam estimar o nível da volatilidade eleitoral a partir de uma visão nacional. Isso encerrava um problema na medida em que o nacional se configura como uma tendência geral, mas cujas volatilidade é dada, na verdade,  nos diferentes planos locais.
+
+246 - Inferência Econlógica
+
+    O autor cita um debate feito no começo da década de 1990 sobre o problema da falácia ecológica. Cita alguns textos que vale a pena dar uma olhada no que eles esta falando. Por cima, fica díficil entender.
+
+246  - Objetivo geral
+
+    Descrever o método que está no centro da disputa do debate e identificar os principais elementos da controvérsia nacional-caontextual.
+
+246 - Volatilidade na Itália
+
+    A partir de 1985 as análises de volatilidade, ou seja, das que indicavam qual a direção da mudança do voto. Enfim, de qual partido alguém ganhou voto ou perdeu.
+
+246 - Modelagem da volatilidade por Goodman 1959
+
+    Prevê a inferência de comprotamento individual a partir de dados agregados. É um sistema baseado em regressões lineares onde o percentual do total de votos que vão aos partidos na eleição predecessora são variáveis independentes, e a percentagem na eleição recente é a dependente.
+
+    Ou seja, tenta-se prever o resultado da eleição X1 a partir de X0, tendo como unidade de análise a menor área possível.
+
+249 - A controvérsia
+
+    A controvérsia é dada pela escala. Qual a escala adequada para analisar a volatilidade eleitoral? Ela nasce especialmente nas análises sobre o referendo sobre o gatilho salarial na Itália em 1985. Houve uma crítica às tentativas de indicar uma flow of vote entre o apoio partidário nas eleições regionais e o apoio dado ao sim ou não no referendo.
+
+    Dois estudos que tiveram abordagens distintas quanto à unidade, chegaram a diferentes conclusões sobre a relação entre apoio partidário e apoio ao sim no referendo. O grupo que fez coma mostras de províncias e não nacional demonstrou apoio ao sim por parte dos neo-fascistas, mostrando que o apoio ao Sim não representava, estritamente, um apoio da classe trabalhadora a bandeiras de esquerda.
+
+    Basicamente, o que os resultados desagregados permitem mostrar é que há diferentes dinâmicas ao lngo do território que predispõem ao voto no referendo. Os motivos de votação no referendo no sul, podem ser distintos dos motivos no norte. Os resultados agregados tendem a suprimir essas diferenças e uniformizar os motivos.
+
+249 - Debate sobre a controvérsia
+
+    Começa com Corbetta e PArisi (1990), sucede a uma crítica resposta de Biorcio e Natale (1991) que produz uma réplica de Corbetta e Parisi (1991).
+
+250 - Core da crítica ao método de Goodman: uniformização das tendências regionais.
+
+    Corbetta e Parisi (1990): o modelo goodman postula que a movimentação de votos entre os partidos é regulada por uma lógica singular que se repete por todo o território de maneira uniforme.
+
+    A saída metodologicamente viável é limitar a análise a subsistemas territoriais onde haja base teórica para supor que ali a dinâmica política é singular. saída é a análise espacial-contextual.
+
+
+250 - Argumentos teóricos da análise espacial contextual
+
+    Corbetta e Scappini (1991).
+    1 - para assumir a possibilidade de homogeneidade no comportamento eleitoral é necessário que haja homoogeneidade da arena política.
+
+    2 - O contexto político,  na medida em que os partidos são organizados e podem somular interesses eleitorais em diferentes características taic omo grandes e pequenas cidades, exercem grande influência no grau de homogeneidade no campo eleitoral. Talvez só exista homovgeneidade dentro de campo estrito..
+
+    3 - as escolhas eleitorais são tomadas em distintos contextos sociais nos quais difrentes características sociais e pressões de influências produzem orientações distintas para com o voto e escolha partidária.
+
+250 - Aplicando a teoria na prática.
+
+    Os autores Corbetta e Scappini usam dados das eleições de 1983 e 1987 para a Cãmara de Deputados Italian em 608 seções.
+
+    Eles mostram que os coeficientes de volatilidade são mais semelhantes dentro do que entre os distritos eleitorais e que há um efeito importante da cidade sobre os resultados. Os efeitos de vizinhança tendem a ter pouco efeitos sobre as diferenças dos coeficientes.
+
+    Conclusão: há diferenças sistemáticas entre as unidades territoriais nos valores dos flows eleitorais.
+
+
+251 - Resposta e crítica à teoria
+
+    Biorcio e Natale (1991): Dizem que eleições nacionais são exatmente isso. (?)
+
+    2 - Os dados de survey proveem evidências de volatilidade no nível nacional essencialmente similar aqueles providas pelo método de aplicação de Goodman. Portanto, argumentos sobre limitações teóricas não fariam sentido para criticar uma de ordem metodológica.
+
+    Instrumentalmente o método funciona em um nível nacional a despeito dos argumentos teóricos contra sua aplicação na escala. Ou seja, as pequenas oscilações entre os distritos não permitem abandonar a necessidade de estimação de volatilidade no nível nacional.
+
+    3 - Apenas seria válida se encontrassem um efeito sistemático do contexto sobre o resultado nacional. Ou seja, as microflutuações não fazem com que se prescinda do nacional. Pois o nacional existe enquanto a configuração das micro-flutuações regionais.
+
+251 - Lições GERAIS
+
+    Corbetta e Scappini dão evidências de que os efeitos contextuais não são meramente de efeito minoritário ou randômico sobre o efeito geral. Diferenças nas médias de volatilidade em seções ao longo dos partidos são consistentemente menores para seções dentro de um mesmo distrito eleitoral do que entre outros distritos eleitorais.
+
+    Conclui-se que: "the differences between the electoral districtis in average flows of votes between the parties are systematic in nature."
+
+252 - Base conceitual por trás da diferença entre as duas visões (Corbetta de um lado e Biorcio de outro)
+
+    Biorcio está pensando no modelo calcado na escola de Michigan. O contexto não nacional é aqui entendido como um elemento residual par a a influência da decisão do voto, e admite-se uma mesma uniformidade de recebimento de informações e pressão de campanhas entre os indivíduos.
+
+    O segundo modelo tende a ter como frame de referência os termos definidos em termos geográficos-social, cujo alcance e tipos de oportunidad política não são os mesmos em toda parte.
+
+    Do primeiro ponto o nacional é visto como a soma média de todas as subunidades políticas em jogo.
+
+252 - Consequência epistemológica: instrumentalismo x realismo.
+
+    Ambas tem consequências epistemológicas. Os modelos do primeiro tipo tendem a produzir, ou tentar, resultados previsíveis. Não tem a ver exatamente com a veridicidade do modelo. O primeiro é instrumental o segundo é realista.
+
+NP geral
+
+    Acho que o trabalho dá uma pequena pista do que virá mais para frente com o Agnew. É como se ele começasse a compreender que algo mais estava por trás da discussão entre nacional x contextual. Eu creio que ele vai trabalhar essa dimensão sobre uma nova ótica. Mas aqui ele chama a atenção para a questão ontológica por trás das visões críticas sobre o debate entre nacional e contextual. Em primeiro lugar, é importante ter em mente a ruptura que o método contextual traz para a visão do comportamento eleitoral, especificamente em sua saída realista mais do que instrumentalista.
+
+    O contexto não se configrua simplesmente como uma parte de um todo. O nacional não é simplesmente a tendência dominante que perpassa as micro-decisões irrelevantes que vão contra a tendÊncia principal. Nesse sentido, o que é o Nacional? Ele faz sentido? Agora é mais do que isso, na verdade é a demonstração de que diferentes dinâmicas se apresentam de acordo com a unidade política em jogo. Um mesmo resultado ao norte pode ser orientado por pressões que são distintas em outra região. Ou seja, as dinâmicas dos distritos ensejam uma vida e identidade próprias.
+
+    
