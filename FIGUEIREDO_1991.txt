@@ -1,0 +1,363 @@
+Bib
+
+    FIGUEIREDO, M. F. A decisão do voto: democracia e racionalidade. São Paulo: Editora Sumaré: ANPOCS, 1991.
+
+43 - Escola Sociológica do Voto (Cap 2)
+
+    Campo da Sociologia Política: o que há de social na política?
+
+        "A sociologia política preocupa-se fundamentalmente com as condições sociais subjacentes aos fenômenos propriamente políticos (Lipset, 1967). Tais condições constituem o contexto no qual as instituições, as práticas, as ideologias e os objetivos políticos se formam e atuam. Nesse sentido, para compreender o voto de um jovem ou de um idoso é necessário conhecer seu contexto social e político: onde esses eleitores vivem e como vivem nesse contexto."
+
+        "As decisões individuais têm que ser compreendidas dentro dos diversos grupos sociais (Lazarsfeld, 1966:299). Elas supõem a estabilização ou a mudança de atitudes, crenças, ideologias “em termos de associação com outros membros dos principais grupos de solidariedade que envolvem o eleitor” (Parsons, 1970:19)."
+
+        NP: Ontologia do mundo político como um elemento do mundo social. O que coloca algumas questões sobre as fronteiras esses dois campos e a demarcação entre o que faz a ciência política e a sociologia. Esse campo da escola sociológica está nessa fronteira. Quem vai falar sobre essa questão é o Sartori.
+
+        SARTORI, G. Da Sociologia da Política à Sociologia Política. In: LIPSET, S. M. (Ed.). . Política e Ciências Sociais. Traducao Álvaro Cabral. Rio de Janeiro: Zahar Editores, 1972. p. 106–148.
+
+        SARTORI, G. A Política: lógica e método nas ciências sociais. Traducao Sérgio Bath. 2. ed. Brasília: Editora Universidade de Brasília, 1997.
+
+        No primeiro ele vai fazer uma provocação, faz sentido uma sociologia política? E em que medida ela é uma sociologia da política? Ou seja, em que medida ela é um ramo da sociologia (como a sociologia da religião, do esporte, etc...) ou um híbrido entre os dois campos do conhecimento? A saída para Sartori é que a Sociologia política é aquela que trnsita entre os dois extremos, fazendo um movimento circular: tanto ela deve se preocupar com a as razões não políticas pelas quais as pessoas atuam na vida política, como com as razões políticas.
+
+    Autonomia da Estrutura: Visão Durkheiminiana
+
+        "...em situações sociais nas quais a escolha e o comportamento das pessoas dependem da escolha e comportamento das demais, não se pode somar as proposições sobre os indivíduos para gerar proposições sobre os resultados agregados. O somatório de milhares de micromotivos não explica os macrocomportamentos"
+
+        NP: É o mesmo fundamento que Durkheim preconiza no seu "Regras do Método Sociológico". Ou seja, o fato de que o social se apresenta enquanto um elemento externo aos indivíduos. É o sentido próprio da palavra Estrutura. Mas será que isso é verdade? Há de se fazer uma diferenciação aqui em ação que tem um comportamento de estrutura (como os fenômenos sociais) mas que dependem em última instância e se realizam apenas enquanto uma ficção que orienta os comportamentos individuais. A estrutura do poder social é uma ficção no fundo, é como nos dizeres de Hayek, uma ordem espontânea.
+
+        Para essa escola, portanto, não faz sentido a ação individual, mas apenas aquela em que podemos capturar dentro do agregado das diferenças de taxas de voto entre os grupos sociais. Pois é, o fundamento aqui é que identificado e mensurada a ação social entre grupos, verificar se existem diferenças estatísticamente relevantes entre elas que permitam dizer: o pertencimento ao grupo A predispõe a um compotramento X, e o pertencimento ao grupo B predispõe ao comportamento não-X.
+
+    Fundamento da Ação Política Pautada pelo Social: interação
+
+        "...o comportamento político é função da natureza e da densidade das interações em que os indivíduos estão envolvidos, das opiniões que formam a partir daí e do estado sócio-econômico da sociedade na qual ocorre esse comportamento."
+
+    Feitura do Política a partir do social
+
+        "As respostas participativas aos apelos mobilizadores da política variam diretamente com o grau de desenvolvimento da sociedade."
+
+        Teorias calcadas nessa lógica têm demonstrado, com muita habilidade, que alterações substanciais no estado social - notadamente via mobilidade social e maior igualdade de oportunidades - são acompanhadas de mudanças comportamentais em direção à formação de uma “cultura cívica” (Almond& Verba, 1965), da consubstanciação política da cidadania (T. Marchall) e do consequente realinhamento político e partidário (Pedersen, 1983).
+
+    Explicação da participação
+
+        Aplicada aos padrões de comportamento político-eleitoral, essa teoria nos diz, então, que as taxas de comparecimento eleitoral são função do nível de desenvolvimento social e econômico e do estado da interação social entre os indivíduos; e que as flutuações acima ou abaixo do previsível variam em função da efetividade dos apelos políticos.
+
+        "Para a sociologia política, então, a participação eleitoral é fruto das interações sociais dentro de um contexto, sendo que a política e o voto têm a função instrumental de manter ou alterar o status quo. Quando, então, o voto perde a função de “voz” os indivíduos se reorientam para a “saída”, tal como sugere Hirschman (1973). Os eleitores migram, protestam, abstêm-se, enclausuram- se ou buscam outras formas de interferir na história. No âmbito da explicação sociológica, os indivíduos não “ saem”por se sentirem impotentes, mas por constatarem que o voto não é um instrumento eficaz. O voto como instrumento de mudança é impotente e não os indivíduos, como sugerem os psicologistas."
+
+    Interação e conversação como fundamentos da ação sociológica
+
+        "Como a sociologia política explica a distribuição de preferências entre os eleitores? A chave da resposta a essa questão está na existência de, identidades culturais objetivamente estabelecidas, ou na existência de consciência de classe. Os dois fenômenos podem estar empiricamente misturados, mas analiticamente são separáveis. A identidade cultural pode expressar-se na forma de regionalismo, bairrismo, similaridades étnicas ou ainda na convergência de interesses. A origem da formação dessa identidade está na interação social. Através da “conversação” social os indivíduos se identificam e formam opiniões que passam a ser mais ou menos compartilhadas, dependendo do grau de coesão do grupo ou classe social:"
+
+        A origem da identidade política está, portanto, no discurso político-partidário. A identidade partidária, por sua vez, baseia-se na identidade política previamente formada e a origem de sua flutuação está na estratégia eleitoral dos partidos. Quando essas identidades são convergentes e bem definidas os partidos adquirem bases sociais duradouras e sólidas, quer consolidadas em tomo da divisão social em classes, como ocorre na Inglaterra, Suécia e Alemanha, quer em bases lingüístico-regional, como na Suíça, ou ainda em termos quase-religiosos, como na Holanda, para citar apenas alguns exemplos (Lijphart, 1984: cap. 8).
+
+        Entretanto, para que dois trabalhadores votem no mesmo partido ou candidato é necessário que ambos tenham participado da mesma “conversação” social, resultando daí opiniões concordantes. Decorre, pois, que a probabilidade de votos na dimensão “trabalhadores” é função da densidade da interação social (IS) nessa dimensão. Outra conclusão importante dessa lógica é que a probabilidade de um trabalhador votar em conformidade com sua classe não é dada pela proporção de trabalhadores em uma comunidade, mas pela proporção de trabalhadores votantes que tenham votado em conformidade com sua classe em eleições prévias.
+
+        NP: acho que aqui cabe um aprofundamento maior sobre o significado de interação e conversação social. Autores sugeridos: Goffman. Enfim, precisamos entender a teoria por trás do modo como o social age e conforma os desejos e opções políticas dos indivíduos.
+
+    Voto de Classe
+
+        o voto classista (Vtc) é função da densidade de interações sociais dentro da classe social de referência (ISc), da densidade de interações sociais duais entre indivíduos de diferentes classes e do grau de congruência de opiniões dentro da classe de referência (Occ).
+
+        Ademais, é importante notar que, mesmo onde existem partidos classistas, não é inexorável a relação voto e classe. Dirigentes, burocratas e parlamentares desses partidos se “aburguesam”; trabalhadores e militantes tornam-se intelectuais, jornalistas, tesoureiros, publicitários. Seus candidatos precisam constantemente disputar votos com outros candidatos que falam a mesma linguagem e eventualmente têm propósitos semelhantes. Isto significa que trabalhadores-eleitores podem mudar seus votos sem perder sua identidade de classe, quando a têm, é claro. Obviamente, toda essa argumentação vale para as outras classes sociais
+
+        As respostas aos apelos de votos momentâneos variam inversamente à densidade das identidades políticas, nos diferentes contextos sociais.
+
+    Diferença Voto Psicológico x Sociológico
+
+        Para os psicologistas, cabe relembrar, a formação de identidades - principalmente a partidária - nasce no processo de socialização, que é, modus operandi, a interação social. Mas a troca de experiências e informações sociais nesse processo é mediada por mecanismos psicológicos que levam os indivíduos a aderirem a esta ou aquela atitude frente ao mundo político (Campbell, 1964:32).
+        Para os sociologistas, notadamente os influenciados pela teoria do voto classista, são as condições sociais objetivamente vividas que formam as atitudes políticas. Estas formam “campos” de consciência política que passam a responder aos apelos políticos conforme o contexto social.
+
+        direção do voto de um indivíduo depende da natureza das relações políticas e sociais em que ele está envolvido, da densidade da identidade política do grupo a que ele pertence e, obviamente, dos apelos momentâneos das campanhas.
+
+    Densidade das interações
+
+        Como podemos ver, a natureza e a densidade das interações em que os indivíduos estão envolvidos estão estreitamente relacionadas com a abrangência das questões. Por esse caminho é perfeitamente plausível montar os seguintes argumentos:
+
+    Esquemas da éscolha eleitoral pala sociologia
+
+        1. Clientelismo individual - Caciquismo implica Pr(ISi) >Pr(ISij);
+        2. Clientelismo corporativo - Personalismo/partidarismo, implica Pr(ISi)=Pr(ISij);
+        3. Ideologismo - Personalismo/partidarismo, implica Pr(ISi) >Pr(ISij).
+
+        Os argumentos (1) e (3) são evidentes. Não existem relações dessa natureza que sobrevivam a duas eleições se a densidade de interações aí existente não for suficientemente grande e enraizada.
+
+    Natureza das eleições em sociedades sem base classista
+
+        Pelo que foi exposto acima, fica claro que em sociedades nas quais a política eleitoral não é organizada em bases classistas três componentes eleitorais dominam a decisão do eleitor: primeiro, ele será marcadamente issueoriented; segundo, os candidatos aos cargos parlamentares se propõem a exercer mais uma representação “especializada” do que uma representação ideológica; terceiro, os candidatos a cargos executivos têm necessariamente que explorar o lado personalista de sua candidatura - quem for eleito irá governar para toda a população e não apenas para uma parcela (ainda que majoritária) dela. Isso requer, também, que os candidatos sejam mais issueorienteddo que class-based.
+
+    Resumo: direção do voto como função da densidade das interações sociais.
+
+        Podemos concluir, portanto, que a direção de voto para a sociologia política *é uma função da densidade das interações sociais (IS) em que os indivíduos estão envolvidos, das opiniões concordantes daí geradas (Oc) e da forma pela qual os candidatos ou partidos realizam a política. Isto é, a decisão do voto é um caso especial da lei comportamental definida em (2.5) - conforme está postulado na Proposição (2.2) e definido na equação (2.8). A decisão de voto é comandada pela natureza e pela densidade da identidade política existente entre eleitores e candidatos ou partidos.
+
+    Explicação Circular:
+
+    Sob uma perspectiva histórica, a sociologia oferece uma explicação circular para a decisão de voto: os eleitores têm atitudes clientelísticas ou ideológicas e, portanto, votam dessa forma, porque as elites realizam a política pelas vias clientelística ou ideológica. As elites, por sua vez, têm atitudes clientelística ou ideológica e, portanto, realizam a política por essas vias, porque os eleitores têm aquelas atitudes, e assim sucessivamente. O resultado dessa situação esdrúxula é bem conhecido: as elites não compreendem os eleitores e põem a “culpa” no estado cultural, quando não no próprio eleitorado.
+
+    A interpretação substantiva das razões da decisão do eleitor parece ser, pelo exposto, fundada numa metafísica da relação eleitor-voto-candidato. Por esse caminho, a sociologia fica sem resposta, ou o que é pior, dá a mesma resposta a todas as perguntas: é necessário primeiro educar o eleitorado, caso contrário as eleições serão sempre decididas por votos “cacarecos”.
+
+    NP: acho que aqui a questão é puramente de perspectiva histórica mesmo. O importante é a definição da direação do voto como um elemento da densidade da interação social a quais os indivíduos estão inseridos. É a forma como as estruturas sociais se objetivam conformando desejos e orientações políticas nas pessoas que passam a determinar o voto em uma direção.
+
+Escola Psicológica: Modelo michigan (cap 1 do Livro)
+
+    Unidade de Análise: Indivíduo/ Causas Psicológicas
+
+        Para os autores desse modelo, o indivíduo é a unidade de análise, a fonte original de informação. Através de opiniões e auto-avaliações individuais, os dados são colhidos por amostragem - o survey.
+
+    Causas do comportamento Político: Psicologia e formação do sistema de personalidade.
+
+        “começamos a busca da causalidade ao nível psicológico e concebemos o ato de votar como resultante de forças atitudinais” (Campbell et al„ 1964:13,32).
+
+        Em tais teorias, a orientação em direção a questões políticas começa antes de os indivíduos terem idade para votar e, em grande medida, são um reflexo de seu ambiente social imediato, sendo a família o ambiente preponderante. Assim sendo, as atitudes políticas se formam e se integram no sistema político através de um “sistema de personalidade”, no sentido parsoniano. Esse processo de formação de atitudes é chamado de socialização política.
+
+        as atitudes políticas fazem parte da psicologia humana e, ao se consolidarem pela socialização política, tornam-se a base para a formação de opiniões, auto-avaliações e propensões para a ação frente ao “ambiente” político mais amplo.
+
+        Agindo, reagindo e interagindo social e politicamente, a partir de uma base psicológica formada e com categorias políticas normativas razoavelmente consolidadas, o indivíduo sempre articulará da mesma maneira suas respostas a diferentes contextos.
+
+        indivíduos semelhantes do ponto de vista social e de atitudes tendem a ter comportamentos políticos semelhantes, a votarem na mesma direção, independentemente de contextos históricos.
+
+        NP: essa escola chama para si o peso que os fatores de formação da personalidade do indivíduo, forjadas durante todo o processo de interação inter-individual ao longo da vida, tendem a prevalecer para o formato do comportamento político da pessoa. Ela é uma tentativa de dar um papel ativo ao indivíduo no peso da decisão individual, mas ainda assim, apostando na conformação estrutural prévia. Muito diferente da escolha racional. E diferente da Sociológica, na medida em que entende que as estruturas sociais são uma parte apenas do processo de conformação da identidade do sujeito. Para ela, portanto, a determinação do comportamento político deve ser olhado entre as preferências individuais que foram conformadas pelo processo de formação identitária, e não, em seu posicionamento dentro de uma estrutura social abrangente. Agora, essa escola entende que a preponderância do psicológico é tão grande, que dentro de determinados contextos, ela sempre agirá da mesma forma. Não há, ou é bastante difícil, a mudança de comportamento ou o peso dos choques identitário que as pessoas terão ao longo da vida à medida que passama  vivenciar determinados contextos.
+
+        Mas ao mesmo tempo, eles entendem que a formação psicológica da pessoa não é simplesmente um dado de posicionamento dentro de uma estrutura. Mas sim, que existe de fato uma tensão, na medida em que o indivíduo ele cristaliza em si todas as experiências passadas de sua vivência, e na medida em que passa a vivenciar novas experiências tende a incorporar ou entrar em choque com elas, conformando ou aprofundando sua subjetividade.... Eu acho... hehe
+
+    Comportamento: função da interação das atitudes ao longo da vida.
+
+        para a teoria psicológica o comportamento dos indivíduos é função da interação das atitudes a que esses indivíduos estão sujeitos em suas experiências sociais e políticas. Para essa teoria, a convergência de atitudes frente ao mundo é o ingrediente básico para a compreensão do fenômeno social em sua totalidade.
+
+        Em seu Surge and decline: A studyofelectoralchanges (1967), Campbell afirma que o interesse por política varia substancialmente de indivíduo para indivíduo, de acordo com a intensidade de reação aos estímulos políticos e a importância da política em seu ambiente. Atitudes dessa natureza formam-se cedo pela socialização, e não são “uma simples função das origens sociais e econômicas” (in Campbell, 1967:42).
+
+        Nesse modelo, não basta demonstrar que indivíduos com sistemas atitudinais semelhantes se comportam de maneira semelhante; é também necessário demonstrar que eleitores socialmente díspares votam em direções distintas.
+
+    O social em Michigan: relação interindividual em um mesmo ambiente.
+
+        Nesse sentido, a fonte empírica para a compreensão do comportamento social de um agregado social - eleitorado, negros, índios, operários, empresários, moradores de áreas específicas, jovens, mulheres etc. -, está no sistema de atitudes compartilhado por indivíduos com características demográficas semelhantes. No entanto, a condição social dos indivíduos, definida por aquelas características, não tem influência determinante no comportamento político dos membros de cada um dos grupos. As características sociais dos indivíduos descrevem, parcimoniosamente, um aspecto do ambiente onde transcorre sua vida privada e onde interagem social e politicamente.
+
+        O sistema atitudinal não é cativo de grupos ou classes sociais. As atitudes são formadas pela compreensão da vida social e política, que é adquirida através da socialização. Nesse sentido, para compreender qualquer fenômeno social ou estritamente político é necessário saber antes como os indivíduos apreendem a organização da sociedade e as relações sociais. Isto é, é preciso saber inicialmente como os indivíduos concebem sua existência social.
+
+        NP: O social, portanto, é apenas o lócus da socialização. Torna o argumento da ação social muito mais sofisticado. Ele tenta explicar o gap existente entre a estrutura social (captada pelo comportamento agregado) e o comportamento individual.
+
+    Teoria da crença de massa
+
+        É com base nessa argumentação que Philipe Converse (1964), um dos fundadores do modelo Michigan, elabora a teoria da “crença de massa”. Sistemas de crenças desenvolvidos endogenamente por “diversos públicos” constituem o elo causal entre as motivações psicológicas para a ação política e a ação observada ou a ser predita. Seguindo esse paradigma, Converse (1964), em seu artigo seminal “The Nature of Belief Systems in Mass Publics”, argumenta e demonstra empiricamente que os indivíduos, quaisquer que sejam seus ambientes sociais, distribuem-se e relacionam-se com o mundo político segundo os níveis de conceituação que são capazes de elaborar. Ou seja, a compreensão da natureza e do escopo da política, em qualquer sociedade, é estratificada segundo “níveis de conceituação”, de compreensão da política.
+
+        o poder explicativo dessa teoria reside no fato de que, uma vez formadas, as atitudes, opiniões e ideias a respeito do mundo social são relativamente estáveis no tempo; mais importante ainda, tendem a inter-relacionar-se com outras que sejam logicamente consistentes com as anteriores. Assim, explicar ou prever comportamentos é desvendar as inter-relações entre determinadas atitudes e opiniões:
+
+            [O estabelecimento] da inter-relação [entre determinadas atitudes ou idéias pode ser visto como significando o sucesso em predizer que um indivíduo sustentará outras idéias ou atitudes, dado o conhecimento prévio de que ele sustenta determinadas atitudes ou idéias (Converse, 1964:208).
+
+        Comparações longitudinais, no entanto, indicam a instabilidade de atitudes frente a questões políticas relevantes que compõem as agendas públicas (Converse, 1975). Este é um fato problemático para a explicação do comportamento político, pois diminui, em princípio, a capacidade de predição da teoria. Contudo, argumenta Converse, essa perda está intimamente ligada com o horizonte de predição que se pretende alcançar e com o grau de integração ou coesão interna dos sistemas de crenças dos diferentes públicos.
+
+        Do ponto de vista do alcance da previsão de comportamentos futuros, Converse constata que somente na porção altamente politizada da sociedade (cerca de 15%, nos países desenvolvidos) os sistemas de crenças são suficientemente estruturados para sustentar previsões de longo prazo. Em outros níveis da sociedade, observa-se que os sistemas de crenças vão perdendo coerência e densidade de conteúdo político, identificando-se até mesmo sistemas verdadeiramente idiossincráticos. Em resumo, constata-se que a maioria do eleitorado é “estonteantemente” errática na conceituação do mundo político: são comuns sistemas idiossincráticos, onde convivem atitudes com sinais trocados. Essas evidências empíricas são irrefutáveis no nível macro e isto ataca o coração da teoria: se o comportamento futuro dos indivíduos é função de seus sistemas de atitudes frente ao mundo e se esses sistemas não são coerentemente estruturados, então não é possível prever nada.
+
+        NP: Sistema de crenças é algo fundamental. Elas funcionam como filtros que fazem com que a concepção sobre o mundo político seja enviesada em alguma dimensão. O sistema de crenças é uma espécie de frame que dá sentido e interpreta as experiências individual. A posição política denota como o resultado do modo como essa visão entende o papel da política sobre o seu mundo. E é interessante a ideia de que apenas na elite a visão política sustenta a possibilidade de verificação de uma regularidade de longo prazo. Realmente, os acadêmicos tendem a ter uma estruturação do seu sistema de crenças muito mais arraigado e estruturado no que tange à orientação política. As pessoas comuns tendem a ter um comportamento errático, fruto do próprio sistema de crenças que não permite, talvez, uma captação mais aprofundada (ou elitizada) do campo político como um todo. No entanto, entendo que isso parecec uma visão também elitista. Talvez a estruturação do campo de crenças do homem comum, para com a política, atenda a um outro tipo de relação. Mas sim, é menos sofisticada sim! Cest la vie... Mas a questão se resolve, como se vê abaixo, com a questão da centralidade. Não é que seja menos ou mais sofisticado (eu até acho que é), mas depende também da centralidade que a política tem para aquele sistema de crenças.
+
+    Sistema de crenças e sofisticação política: centralidade da política no sistema de crenças
+
+        Para enfrentar esse problema, Converse (1975) aponta dois caminhos: o estudo do grau de centralidade e do grau de motivação para a política. Sugere inicialmente que a busca de coerência nos sistemas de atitudes seja feita em função do nível de centralidade das questões políticas para os diversos grupos de eleitores. Para ele, organizar os dados atitudinais segundo padrões de alta sofisticação intelectual, compatíveis apenas com a porção altamente educada do eleitorado, obscurece o fato de que também entram na composição do eleitorado campos conceituais e atitudinais de alcance cognitivo limitado. Ou seja, a ausência de padrões atitudinais e de conceituação “satisfatórios”, exogenamente estabelecidos, nas porções menos educadas da população não é suficiente para que se conclua que não existem sistemas estruturados de crenças nesses grupos; tampouco para que se afirme ser impossível a formação de tais sistemas por causa do nível educacional desses indivíduos.
+
+        A questão está em descobrir endogenamente esses padrões: se for necessário, Converse sugere o uso de métodos de entrevistas abertas e de maior profundidade (Converse, 1975: 89). O nível educacional é um poderoso preditor de níveis de sofisticação conceitual, porém não é suficiente para garantir a existência ou não de sistemas de crenças. Converse demonstra que o elemento que, endogenamente, dá maior coerência aos diversos níveis de conceituação é o grau de centralidade que os temas da agenda pública têm na vida cotidiana do cidadão. Isto significa tão simplesmente que as questões em torno das quais ocorrem as disputas políticas não são igualmente politizadas em toda a sociedade.
+
+        A solução está em conjugar os níveis de estruturação dos sistemas de crenças com o grau de motivação para a política que os indivíduos desenvolvem.
+
+    Conhecimento do campo ideológico como preditor de comportamento individual
+
+        Como vimos, a distribuição de preferências ou identidades político-partidárias é função da identificação de diversos “públicos” com ideias e ideologias de partidos políticos, candidatos e lideranças políticas. Essa formulação é a aplicação da lei causal definida em (1.4), que agora pode ser interpretada com a seguinte formulação: é necessário, embora não suficiente, conhecer o “campo” ideológico dos indivíduos para explicar ou prever seus comportamentos futuros.
+
+    Ação e opinião: nem toda opinião gera ação política. Alienação
+
+        atitudes frente ao mundo são propensões para se agir em determinadas direções. A opinião contrária ou favorável a alguma coisa pode originar-se das motivações psicológicas que constituem os campos atitudinais que estão na base da formação de identidades. Mas essas motivações não são suficientes para impelir os indivíduos à ação. O fato de os indivíduos terem opiniões a respeito de A ou B não significa que teriam motivações suficientes para agir, para participar da vida política. A “teoria da alienação”, tal como formulada pela sociologia behaviorista americana, vai ser a base para explicar a motivação para a ação.
+
+        Com técnicas de entrevistas abertas, sob orientação psicanalítica, Lane desvendou a ideologia política desse grupo de americanos e generalizou o fenômeno observado. Esse “grupo” passou para a literatura como constituindo a “grande maioria silenciosa” que, como veremos adiante, sistematicamente tem decidido as eleições presidenciais americanas. Nesse estudo Lane define o fenômeno da alienação política: “[Alienação política] implica mais do que desinteresse; ela implica rejeição, no sentido psicanalítico do termo ‘alienação’, mas não na versão marxista” (Lane, 1962:162).
+
+        Bib: Robert Lane, Political ideology
+
+        Robert Lane depura essa definição de alienação política identificando-a como a “síndrome de três atitudes” básicas, as quais, resumidamente são:
+
+        1. Eu sou objeto e não sujeito da vida política; eu não tenho influência e não participo; politicamente, falo na voz passiva;
+
+        2. O governo não cuida nem administra no meu interesse;
+
+        3. Eu não aprovo o processo de tomada de decisões; as regras são injustas, ilegítimas e a Constituição, num certo sentido, é fraudulenta (1962:162).
+
+        Em “On the Meaning of Alienation” (1959), Seeman faz um estudo conceituai desse fenômeno. Baseado em alguns estudos experimentais, sugere um caráter multidimensional para o conceito de alienação. Identifica cinco dimensões, ou, na linguagem de Lane, cinco atitudes básicas que constituem a “síndrome” da alienação: impotência (powerlessness); ininteligibilidade (meaninglessness); anomia (normlessness); isolamento (isolation); e auto-indiferença(self-estrangement).
+
+        Tomando por base os estudos anteriormente referidos e os dados empíricos de uma pesquisa conduzida, em 1960, por Almonde Verba, com uma amostra nacional da população americana, Finifter faz uma exaustiva análise fatorial dos itens atitudinais e identifica quatro fatores, que define da seguinte forma (Finifter, 1970:390-1):
+
+        1. Impotência política (politicalpowerlessness), sentimento indivi¬dual de que “eu não tenho influência alguma no que o govemo faz”;
+
+        2. Ininteligibilidade política (politicalmeaninglessness), sentimento de que as decisões políticas são totalmente imprevisíveis, pois não se vê sentido ou coerência no rol de decisões; no limite, o processo decisório é percebido como sendo totalmente aleatório;
+
+        3. Anomia política (politicalnormlessness), que é a percepção de que embora as normas e regras que regem as relações políticas sejam aceitas pelos políticos e ocupantes de cargos públicos importantes, comumente são desrespeitadas;
+
+        4. Isolamento político (politicalisolation), que é a rejeição dos obje¬tivos e normas políticas amplamente aceitos por outros membros da sociedade. Inclui, , por exemplo, o sentimento de que votar ou exercer outras obrigações políticas é mera formalidade.
+
+        Após examinar a relação entre essas dimensões, Finifter isola as dimensões 1 e 3 como as que melhor expressam a “síndrome” da alienação política. Examina também a relação dessas duas dimensões com uma série de variáveis sociais (de background) e conclui que o grau de confiança nas pessoas em geral (ceticismo), a idade, a educação e a etnia influem sobre esses sentimentos. Ou seja, jovens e velhos (aqui a relação é curvilínea), indivíduos com pouca educação e membros de minorias sociais são os que mais se alienam politicamente (Finifter, 1970:402-4).
+
+    Dois níveis do comportamento individual: sistema de crenças e comportamento alienado ou engajado
+
+        O complexo atitudinal que compõe a base para o comportamento dos indivíduos, como vimos, tem dois níveis de profundidade. Na superfície, os indivíduos desenvolvem um sistema de crenças que orienta a formação de suas identidades, lealdades e solidariedades. Num nível mais profundo, os indivíduos desenvolvem um sistema atitudinal que os leva a se situarem no continuum “engajamento-alienação”.
+
+        Pelo exposto, temos que as proposições teóricas que fundamentam a teoria psicológica do comportamento político são:
+
+        1. Conhecendo os níveis de adesão-alienação e compreensão-identidade políticas do indivíduo, pode-se prever seu comportamento futuro;
+
+        2. Por inferência indutiva, conhecendo as propensões comportamentais dos indivíduos pode-se prever o “comportamento" de agregados sociais e seus efeitos sobre a natureza e a dinâmica das instituições.
+
+    Por que as pessoas votam? Reposta de Michigan: flutuação de acordo com o nível de adesão psicológica aos partidos
+
+        Qualquer teoria geral que pretenda explicar o comportamento eleitoral tem que responder a duas perguntas fundamentais: por que as pessoas votam (ou não votam) e por que votam em determinada direção. E o modelo Michigan não se furta a essa tarefa.
+
+        Por que os indivíduos votam: a flutuação nas taxas de comparecimento
+
+        A identificação partidária, nessa teoria, origina-se fundamentalmente de uma adesão psicológica aos partidos existentes.  Uma vez formada, a identificação partidária tende a tornar-se estável, ou seja, os eleitores que têm identificação partidária em graus variados, inclinam-se a “ver” a política e orientar suas ações numa direção partidária. Os partidos políticos são, dessa forma, catalisadores da “síndrome” política distribuída socialmente. Indivíduos com baixíssima identificação partidária e os independentes, por implicação, estão livres dessas influências partidárias e, portanto, estão mais “abertos” para as influências das forças momentâneas.
+
+    A decisão do voto no modelo Michigan: funil de causalidade
+
+        Campbell e colegas desenvolvem uma teoria da decisão do voto na qual a decisão final dos eleitores é produto de um complexo feixe de causalidades (funnel causality analogy) (1967:cap.2). Essa imagem é interessante, pois expressa uma concepção de como as “forças” sociais atuam nos indivíduos.
+        Imaginariamente, na borda do funil está o plano constituído por variáveis históricas, institucionais, econômicas e sociológicas. Destas, as mais influentes são: nível educacional, idade, posição de classe (classe, ocupação, renda ou status), origens étnicas, religiosas e demográficas e conformações institucionais, notadamente do sistema partidário. Entretanto, essas influências originárias se amalgamam no processo de socialização política, que, como já vimos, forma os “campos” atitudinais dos indivíduos.
+
+        Nessa teoria é efêmera a função da variável classe social, tão importante para as ciências sociais, principalmente a partir de Marx. Na medida em que classe social se correlaciona alta e positivamente com educação, é a variável educação que comanda a relação entre classe e identidade partidária devido a sua importância na formação dos níveis de conceituação da política.
+
+        Ao analisar as eleições de Eisenhower e De Gaulle, Converse aponta a influência preponderante de fatores psicológicos e políticos que praticamente anulam os fatores sociais considerados, ao afirmar que as respostas dos eleitores a esses dois líderes não mostram nenhum padrão social, perpassando todos os grupos sociais. A única exceção significativa estaria entre os eleitores partidários de baixo status, que apresentavam preocupações políticas e classistas. Ou seja, os efeitos das variáveis sociológicas manifestam¬-se, indiretamente, através da adesão partidária (Converse, 1967:323).
+
+        Respostas a apelos momentâneos pelo voto variam inversamente com o grau de identificação partidária
+
+        O importante, e o modelo Michigan a tal não se furta, é tentar descobrir por que os eleitores fiéis são os que respondem menos aos apelos das forças mobilizadoras das campanhas eleitorais.
+
+    NPS
+
+        Como a escola psicológica entenderia o fenômeno das pressões cruzadas? É interessante que nas pressões cruzadas a família apareça como a estrutura mais importante. Mas a família é uma estrutura social? De fato, não, mas vejamos como ela responderia à questãod as estruturas cruzadas. Creio que o que ela diria é que na medida em que a estrutura oferece o espaço da socialização e da criação do sistema de crenças, esse indivíduo estaria submetido a um processo cruzado de sistemas distintos de crença. O que torna sua atitude mais errático, ou menos certa de que uma é de fato correta. Ele está aberto a ambas as posições, pois sua concepção de mundo abrange o entendimento de ambos os lados da questão.
+
+Escola econômica de Decisão do Voto (cap 3)
+
+    Voto como um elemento utilitário e não psicológico (intro)
+
+        Os estudiosos dessa linha de investigação partem de uma observação histórica muito simples: se a economia vai bem, os governantes ganham mais votos; se, contrariamente, a economia vai mal. a oposição se beneficia (V. O. Key, 1966). A redução do eleitor à posição de um juiz, com poderes para punir ou recompensar os governantes, encerra uma forma muito peculiar de conceber o comportamento humano.
+
+        O exercício do voto, embora visto como um componente essencial do arcabouço institucional da democracia, tem, no entanto, uma função eminentemente instrumental e estratégica (Riker, 1983). As pessoas votam se esse ato for visto como potencialmente capaz de trazer-lhes algum benefício social ou econômico, divisível ou não.
+
+        Escola Econômica: “Inicialmente, essa linha de investigação rejeita peremptoriamente os componentes psicológicos das motivações individuais como fatores que explicariam o comportamento político eleitoral. Relações de empatia entre eleitores e lideranças cedem lugar a relações de entropia: cada indivíduo isoladamente, no seu microcosmo, reage e age continuamente em resposta ao que ele percebe e experimenta em relação à economia (Popkin, 1976)”.
+
+        “A visão épica da obrigação cívica cede lugar ao realismo histórico da luta política em defesa de interesses sociais e econômicos, individuais ou coletivos. Ideologia, identidades políticas e culturais e valores são reduzidos a sistemas codificados de interesses, com a função instrumental de simplificar a aquisição e processamento de informações necessárias para uma decisão política inteligente (Downs, 1957). O Homus psicologicus e o Homus sociologicus cedem lugar ao Homus economicus: os eleitores votam por seus bolsos.”
+
+        NP: a ironia do Figueiredo aí quando diz visão épica. Mas qual é o realismo de se pensar uma ação humana isolada de componentes psicológicos e sociológicos? A redução de ideologias, identidades e valore a sistemas codificados de interesse não é um reducionismo tautológico? É isso uma ciência?
+
+    Origem da escola: Downs e Arrow. Matriz da teoria racional
+
+        Origem: axiomas que deram orgiem à teoria econômica da democracia de Anthony Downs.
+
+        Fundamentos estão na obra “Social Choice and Individual Values” de Kenneth Arrow.
+
+        Condições de Arrow para uma decisão coletiva racional:
+
+            Basicamente postula que o ato de votar não é uma utilidade em si mesma e a ela é associado um conjunto de custos inerentes e não elimináveis.
+
+            Cada indivíduo associa ao ato de votar uma função-utilidade derivada de cada alternativa.
+
+            O indivíduo prefere X a Y baseado na função utilidade que dessa situação deriva. E o ato de votar em X em detrimento de Y tem de ser maior que os custos inerentes a esse ato.
+
+            “Ou seja, os indivíduos só se dispõem a votar se a utilidade que derivará do estado social futuro desejado for suficientemente grande para compensar o custo de envolver-se no processo político-eleitoral, ainda que como mero  eleitor, o que é o caso da quase totalidade dos membros de uma sociedade de massa.”
+
+            O modelo, no entanto, tem um problema de fundo: observadas todos os critérios não haveria capacidade preditiva dos resultados, por isso incorporam ao modelo a premissa epistemológica de que todo modelo institucional democrático está sujeitas a produzir resultados paradoxais. Ou seja, ainda que racional ela não garante que não existe resultados distintos e opostos de escolha. “As inferências sobre a racionalidade do comportamento dos indivíduos somente serão legítimas se as condições institucionais do processo de decisão coletiva que está sendo observado, fizerem parte do modelo de explicação.”
+
+            NP: essa parte eu não entendo. Que ele quer dizer com paradoxal? E como a introdução dos elementos institucionais resolvem a questão da capacidade preditiva?... Resposta: no caso, paradoxal tem a ver com o paradoxo matemático de que toda escolha democrática com mais de 3 opções tem problemas matemáticos para a construção de uma escolha baseada na preferÊncia de uma maioria. 
+
+    Duas tradições da teoria: modelo economicista e teoria econômica. Satisfação x Cálculo. Diferenciação entre ambas
+
+        No entanto, Figueiredo vai tratar mais especificamente do que ele chama de tradição economicista de explicação do voto. Após mostrar os fundamentos da matriz da teoria downsiana (teoria econômica) ele msotra como a teoria se bifurca e passa a fazer uma explanação sobre a teoria decorrente. No caso, o que ele chama de modelo economicista que parte dos princípios rígidos da teoria do eleitor racional Downsiano, mas a relaxa em vários pressupostos que a tornam distintas da escola original.
+
+        Duas tradições dentro da teoria: modelo econômicista do voto e teoria eocnômica do voto. A distinção entre as duas decorre do fato de que para o segundo os indivíduos agem no sentido de produzir sempre o melhor resultado. Na segunda, tendem a escolher, entre as alternativas disponíveis, aquela que garante minimamente a satisfação de seus interesses.
+
+        NP: o modelo econômico incorpora a questão institucional deixando de lado a questão estratégica já que o jogo apresenta apenas um número limitado de opções.
+
+        “Ambas pressupõem um eleitor racional, em oposição ao eleitor psicológico michiganiano. No entanto, a pura noção de satisfação de interesses retira do comportamento humano o elemento de cálculo estratégico, deixando apenas o elemento de avaliação entre custos e benefícios.”
+
+        “Para o modelo downsiano, o comportamento humano é maximizante; para o modelo economicista, o comportamento humano é “satisfacionista” (satisficing behavior).”
+
+        o eleitor pode comportar-se de duas maneiras distintas: ter um comportamento maximizante, no sentido downsiano, sempre que escolher a alternativa que produza o melhor resultado; ou escolher, entre as alternativas disponíveis, aquela que garanta minimamente a satis¬fação de seus interesses (Monroe, 1979:162). Tal distinção marca a fronteira entre essas duas linhas de investigação. Ambas pressu¬põem um eleitor racional, em oposição ao eleitor psicológico michiganiano. No entanto, a pura noção de satisfação de interesses retira do comportamento humano o elemento de cálculo estratégico, deixando apenas o elemento de avaliação entre custos e benefícios
+
+        Outra divisão que Figuiredo aponta é o fato de que na teoria econômica a ênfase recai sobre os critérios de decisão adotado pelos eleitores. Na economicista, por sua vez, na precedência causal dos elementos econômicos como fator de explicação do comportamento eleitoral.
+
+    Tradição Economicista: cálculo do voto
+
+        Tradição antiga que incorporava os efeitos da economia na determinação e direção do voto. O voto era visto como “de natureza essencialmente retrospectiva.”
+
+        Trabalhando unicamente com dados agregados, fossem séries históricas ou comparações sincrônicas, essa tradição deixou um legado importante: a teoria do voto cíclico.  Na teoria do voto cíclico, o realinhamento eleitoral ocorre imediatamente após o final de um ciclo econômico e se estabiliza paulatinamente, até o esgotamento do novo ciclo, quando então se espera novo realinhamento eleitoral (Key, 1966; Burmham, 1970).
+
+        Duas direções:
+        - Teorias economicistas de explicação do voto
+        - Teorias econômicas do voto.
+
+        “Distinção entre essas duas linhas relaciona-se com duas questões fundamentais: de um lado, quanto ao critério de decisão seguido pelos eleitores e, de outro, quanto à precedência causal de fatores estritamente econômicos na explicação do comportamento eleitoral.”
+
+        Teorias economicistas de explicação do voto: iniciada por Gerald Kramer em Short-Term Fluctuations in US Voting Behavior.
+
+        Incompatibilidade ontológica com as vertentes "cívico-éticas" de voto
+
+            "O ato de votar é uma não-utilidade, ou seja, um custo que só pode ser compensado pelos benefícios esperados. Qualquer imputação ou indução de uma função-utilidade positiva ao ato de votar por meio de depoimentos, é per se, ilegítima, por duas razões. Do ponto de vista epistemológico, se for associada uma função-utilidade positiva qualquer ao ato de votar, independente de para quem esse voto se dirige, o benefício extraído desse ato necessariamente compensará seu custo. E isso fará com que o fator “ato de votar” se torne positivo, contradizendo o axioma do custo-benefício do cálculo eleitoral racional. Rejeita-se, por esse raciocínio, a teoria do voto ético-cívico. Do ponto de vista metodológico, qualquer inferência relativa às causas da direção do voto que acabamos de descrever será necessariamente ilegítima, pois as razões daquele ato independem das expectativas políticas de quem o praticou."
+
+            NP: Figueiredo demonstra a incompatibilidade epistemológica da escolha racional de se induzir algum tipo de utilidade ao ato de votar. Sua ação só pode ser compensada em termos de benefícios esperados e não a algum valor imputado em si. Por isso não faz sentido perguntar as pessoas as razões de seu voto... Todo benefício anula a ideia de cálculo, uma vez que qualquer benefício é um elemento que tem em si a ideia de ser maior que os custos. As causas do voto são ilegítimas pois o ato de votar independe das expectativas políticas do praticante... E como explicar o voto com identificação partidária?
+
+        Crítica ao irrealismo empírico do eleitor racional / Racionalidade Limitada
+
+            Racionalidade do eleitor na teoria economicista: frente ao downsiano, essa teoria não leva em conta a questão de que a racionalidade é feita a partir de um conjunto perfeito de informações. Há um irrealismo empírico nessa afirmação.
+
+            Kramer sugere “que mesmo um eleitor auto-interessado, capaz de adquirir e processar informações relevantes e avaliar corretamente o melhor “time” alternativo de governantes, talvez não ache racional despender tanta energia e tempo nessa tarefa, já que de qualquer forma as plataformas partidárias e os discursos políticos usualmente tendem para a vagueza. Ademais, as diferenças de postura dos políticos frente às questões sociais e econômicas cruciais em geral são tão sutis que, para discerni-las, seriam necessários conhecimentos especializados que a grande maioria dos eleitores não tem.”
+
+            Com base nessa linha de argumentação, Kramer sugere que a regra de decisão seguida pelos eleitores baseia-se em informações prontamente disponíveis para todos, ou seja: o desempenho passado dos governantes ou do partido a que eles pertencem. De posse dessa informação, os eleitores poderão, então, avaliar os candidatos vis-à-vis a sua situação social e econômica, e julgar se “vale a pena” manter a atual “equipe” de governantes, ou se é melhor mudar e dar uma chance à oposição.
+
+            NP: Nessa vertente o número de informações disponíveis é limitado. Mas pelo que entendi o número de informações disponíveis seria igual para todos. Os eleitores contariam com as informações sobre desempenho passado dos partidos e candidatos. É a partir dessa condição que os eleitores farão suas escolhas.
+
+        Regra de decisão operacional dos eleitores: satisfação, governo e oposição
+
+            “Se o desempenho do partido no governo for “satisfatório" de acordo com algum padrão simples, os eleitores votam para mantê-lo no governo permitindo que continuem a implementar suas políticas: se o desempenho for considerado “não satisfatório”, os eleitores votam contra o partido situacionista, dando uma chance à oposição (Kramer. 1971:134).”
+
+            Proposições que decorrem dessa teoria:
+            1 “As respostas aos apelos oposicionistas variam inversamente com o grau de satisfação do eleitorado com os atuais governantes.”
+
+            2 “As respostas aos apelos situacionistas variam diretamente com o grau de satisfação do eleitorado com os atuais governantes.”
+
+            Eleitores, no entanto, tendem a ter um comportamento mais forte no sentido oposicionistas do que situacionista. Os eleitores se comportam como juízes pouco benevolentes com a situação. Os candidatos situacionistas tendem a se comportar de forma a convergir o ponto de interesecção entre as curvas de voto oposicionista e situacionista, gerando uma maior incerteza sobre os resultados eleitorais,
+
+            Premissas do cidadão-eleitora segundo o modelo economicista:
+
+            “1. O ator racional vê o voto como uma escolha entre (apenas) duas políticas: a que está em vigor e uma outra, alternativa;
+
+            2. A base que os eleitores usam para avaliar o desempenho dos governantes é sua situação social, ou a situação social, de seu grupo de referência;
+
+            3. A principal causa de sua situação pessoal, ou de seus pares, está no desempenho individual ou partidário dos governantes, descontando os fatores econômicos idiossincráticos responsáveis por eventuais fracassos ou sucessos pessoais;
+
+            4. O critério de decisão do eleitor está no grau de satisfação que ele obtém do desempenho dos governantes.”
+
+        O eleitor na Versão economicista do eleitor racional
+
+            1. O ator racional vê o voto como uma escolha entre (apenas) duas políticas: a que está em vigor e uma outra, alternativa;
+            2. A base que os eleitores usam para avaliar o desempenho dos governantes é sua situação social, ou a situação social, de seu grupo de referência;
+
+            3. A principal causa de sua situação pessoal, ou de seus pares, está no desempenho individual ou partidário dos governantes, descontando os fatores econômicos idiossincráticos responsáveis por eventuais fracassos ou sucessos pessoais;
+
+            4. O critério de decisão do eleitor está no grau de satisfação que ele obtém do desempenho dos governantes.
+
+            "Como se vê, esse modelo de Homus economicus redutível a um padrão de comportamento “satisfacionista” (satisficingbehavior), tem um certo “sabor” sociológico e psicológico. O sociologismo e o psicologismo subjacentes a essa “receita” comportamental tem suas origens na teoria da racionalidade limitada, ou “satisfacionista”, que Herbert Simon desenvolveu em Modelsof Man. Para Simon o processo decisório individual é regulado por uma lógica cognitiva “simplificadora” do mundo, que reduz os horizontes das pessoas. Essa teoria afirma que “as pessoas não pretendem conseguir o melhor, mas limitam-se ao que lhes parece ser satisfatório, ou “bom o bastante” (Elster, 1986a:25)."
+
+            "Diante de escolhas eleitorais (e não apenas nessa situação) os indivíduos tendem a simplificar o espectro político convergindo rapidamente para divisões dicotômicas do tipo oposição versus situação, esquerda versus direita, partidários dos trabalhadores pobres versus defensores dos poderosos ou ainda “do lado de Deus, do certo e bom” em oposição ao “lado errado, do diabo”. Tudo isso depende, é claro, da capacidade individual de conceituação do mundo político. Nesse sentido, os indivíduos dividem as políticas, ou mais realisticamente as propostas dos políticos, em satisfatórias e não-satisfatórias. Rejeitam as últimas e votam nas que minimamente respondem às suas expectativas (Monroe, 1979:144; 162)."
+
+        Eleições com três ou mais candidatos na teoria Satisfacionista
+
+            Nessas situações, onde um candidato é da situação, a escolha por determinado eleitor adviria não de mecanismos de satisfação com o grau de governo.
+
+            A teoria foi largamente utilizada para dar conta do sistema bipartidário americano. Sendo de díficil implantação em outras realidades políticas
+
+        Abstenção na teoria economicista
+
+            Inicialmente, essa teoria afirma que, quando o custo de votar não for compensado pelos benefícios derivados das ações dos governos, o eleitor não vota.
+
+            sempre que a função utilidade “abstenção” (não-utilidade de ir votar) for maior do que a função utilidade “votar”, em qualquer candidato ou partido, o eleitor, ceteris paribus não comparece para votar, seja qual for a estrutura da competição eleitoral.
+
+            A capacidade preditiva da teoria economicista restringe-se a situações de competição redutíveis a um ou dois blocos de candidatos: situacionistas e oposicionistas. Boa parte dos problemas existentes para que essa teoria seja aplicada universalmente decorre do fato de ela ter sido densenvolvida, e largamente testada, nos Estados Unidos e Inglaterra, onde há de fato um sistema bipartidário (Lybeck, 1985; Belluci, 1984a).
+
+            O problema para a democracia eleitoral é de duas naturezas. Primeiro, é importante saber se os componentes do contorno da rejeição são socialmente enviesados. Se forem, isto significa que há um segmento da sociedade sistematicamente excluído do processo social de decisões, o que implica um estado de injustiça política (Rawls, 1977). Caso contrário, se a distribuição social desse grupo for razoavelmente aleatória isto significa tão-somente que existe um grupo de pessoas espalhadas pela sociedade que acham a política uma prática irrelevante.
+
+            Se as fontes individuais inspiradoras de decisões eleitorais puderem concentrar-se em alguns “padrões simples”, torna-se possível descrever resultados agregados produzidos originariamente por milhares de decisões individuais. Para esta teoria, o que importa é o que leva o indivíduo à ação: o eleitor compara o que ele gostaria que estivesse acontecendo com o que está de fato acontecendo e, retrospectivamente, avalia o desempenho dos governantes (Key, 1966; Kramer, 1971). Em seguida avalia quais dos postulantes têm melhores (ou mais) condições de oferecer políticas que atendam aos interesses que ele quer ver contemplados, avaliando prospecti-vamente os postulantes (Fiorina, 1981).
+
+            o eleitorado compõe-se, idealmente, de dois tipos: os egoístas, que agem em defesa de seus próprios interesses, tendo por horizonte sua vida doméstica; e os eleitores cuja escala de comparação é o estado social e econômico da sociedade. Os primeiros são os eleitores cuja pergunta avaliativa é Whathaveyoudone for me lately? (Popkin, 1976) e decidem em quem votar de acordo com seus bolsos (Key, 1966), em reação ao desempenho dos governantes. Os demais perguntam: Whathaveyoudone for the country lately? e votam de acordo com o bolso do país; este é o eleitor sociotrópico (Kinder&Kiewiet, 1981). Como toda tipologia, esta também comporta um termo intermediário, cujos integrantes essencialmente perguntam Whathaveyoudone for myreferentgrouplately? e votam de acordo com o bolso do grupo (Wheatherford, 1983).
+
+            O retorno esperado do voto personalista varia inversamente com a estratificação social.
+
+            Para os economicistas, portanto, o sucesso eleitoral de candidatos e partidos depende, principalmente, de sua performance prévia. Assim, não explicam por que, notadamente nos sistemas multipartidários, alguns eleitores votam sistematicamente em partidos sem experiência de governo e com chances mínimas de chegar ao poder. Ou seja, não explicam por que alguns eleitores investem em projetos políticos cujo retomo esperado está num horizonte longínquo. Ademais, não explicam também por que eleitores igualmente insa-tisfeitos decidem por partidos ou candidatos oposicionistas distintos.

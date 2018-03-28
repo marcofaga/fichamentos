@@ -1,0 +1,101 @@
+Aula 01: Escola Sociológica
+
+    3 Escolas: são intercambiáveis?
+
+        Alguns autores como o MArcus Figueiredo entendem que as trÊs escolas são ontologicamente e epistemologicamente diferentes, sendo impossível serem, em algum nível, intercambiáveis. Mônica MAchado e Fabio Wanderley vão na direção contrária.
+
+    Inspiradores da Teoria sociológica
+
+        Durkheim, Marx e Parsons.
+
+    Tradição de Parsons: estabilidade da democracia.
+
+        Parsons é um autor importante que influencia as pesquisas e teorias sobre a democracia dentro das ciências sociais.
+
+    Escola de Columbia
+
+        Primeira escola sociológica do voto que influencia e cria o campo.
+
+    Desdobramentos da sociologia política: classes sociais e voto.
+
+        Lipset: fala da relação entre desenvolvimento econômico e democracia.  Também fala da relação entre classes sociais e voto. Partidos de esquerda tem eleitores mais pobres e de direita os mais ricos. Para Mainwaring, Meneguello e Power, no Brasil, é exatamente o contrário. Os pobres tenderiam a ser conservadores.
+
+        Marx e o 18 Brumário: representação pelo lumpenproletariado.
+
+    Métodos de análise
+
+        Geografia eleitoral (análise de dados agregados - ecológicos)
+        surveys
+
+    Outras Variáveis
+
+        Gênero, religião,
+
+    Outras abordagens
+
+        Efeito de vizinhança e redes - Huckfeldt
+        Espaço e Geografia - Agnew
+        Clivagens e ligação com sistema partidário - Lipset e Rokkan
+
+    Críticas
+
+        Figueiredo: explicação é circular, características sociais e apelos dos partidos determinam tipos de eleitores, e tipos de eleitores determinam apelos dos partidos.
+        Problema do funcionalismo:
+
+Aula 02: Escola Psicossociológica
+
+    Grupos Primários
+
+        tendem a ser os primeiros grupos cujos indivíduos vem a se relacionar e conformar suas identidades. Família, amigos,
+
+    Campos atitudinais
+
+Aula 03: Escola Racional
+
+    Voto como uma relação custo-benefício. Não é mais uma expressão social, nem a expressão de uma identidade social.
+
+    Inspiradores
+
+        Weber, Utilitarismo, economia neo-clássica, V.O Key Jr, Arrow e Downs.
+
+    Racionalidade
+
+        É um modelo que pode servir para explicar determinados comportamentos. A partir de uma explicação parcimoniosa. Busca uma simplificação elegante para a formulação de uma teoria geral.
+
+    Outras Teorias: Racionalidade e Cooperação
+
+        Teoria dos Jogos e Teoria da Escolha Social.
+
+        Dilema dos prisioneiros. Lógica da ação Coletiva. Mostram como a cooperação social não é algo trivial. Dada que a ação individual é calcada em um cálculo racional, uma ação de cooperação pode não ser a racional. Pelo contrário, há vários exemplos em como uma ação individual egoísta, ou seja, não cooperativa, pode ser considerada racional. O dilema do carona está nessa perspectiva.
+
+        Influência em: estudos legislativos, políticas públicas e neo-institucionalismo.
+
+    Figueiredo: duas teorias de voto racional
+
+    Ferramentas econômicas
+
+        Escassez, Cálculo
+
+    Ontologia da Escolha Racional
+
+        É um modelo dedutivo. Calcado em uma abstração da realidade e não o contrário. Como na psicossocial e sociológica, cujas teorias são baseadas em uma observação da realidade. Aqui é o contrário.
+
+    Racionalidade
+
+        Tem caráter instrumental (de meios, não de fins, portanto). Qual a forma mais eficiente de atingir um determinado fim? Isso implica em previsibilidade. Seria possível
+
+    Para que servem as eleições?
+
+        Mecanismo para selecionar governos.  O fim, portanto, dos políticos e eleitores é, de um lado, a eleição e reeleição; de outro, políticas públicas.
+
+        Assim, "Partidos formulam políticas para ganahr eleições, e não ganham eleições pra formular formular políticas." (Downs, 1957)
+
+    Teoria do Voto Econômico (economicista para o Figueiredo)
+
+        Relaxa os pressupostos da maximizante (Downsiana) pensa em racionalidade limitada, explica avaliação de governo e eleição. Tende a colocar ênfase sobre o desempenho econômico sobre a decisão do governo!!
+
+        tem certo componente sociológico e psicológico.
+
+        Eleitor Juiz Não BenevolenteINcumbentes
+
+            Os eleitores tendem  (empiricamente) a serem mais críticos que benevolentes na hora de avaliar (reeleger) o governo.

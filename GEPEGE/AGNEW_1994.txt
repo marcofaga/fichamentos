@@ -8,12 +8,11 @@ Bib
 
     Flow: lidando com as mudanças entre vários partidos. NP: volatilidade eleitoral?
 
-
 245 - Problema do Flow Nacional
 
     Alguns métodos buscavam estimar o nível da volatilidade eleitoral a partir de uma visão nacional. Isso encerrava um problema na medida em que o nacional se configura como uma tendência geral, mas cujas volatilidade é dada, na verdade,  nos diferentes planos locais.
 
-246 - Inferência Econlógica
+246 - Inferência Ecológica
 
     O autor cita um debate feito no começo da década de 1990 sobre o problema da falácia ecológica. Cita alguns textos que vale a pena dar uma olhada no que eles esta falando. Por cima, fica díficil entender.
 
@@ -49,13 +48,12 @@ Bib
 
     A saída metodologicamente viável é limitar a análise a subsistemas territoriais onde haja base teórica para supor que ali a dinâmica política é singular. saída é a análise espacial-contextual.
 
-
 250 - Argumentos teóricos da análise espacial contextual
 
     Corbetta e Scappini (1991).
-    1 - para assumir a possibilidade de homogeneidade no comportamento eleitoral é necessário que haja homoogeneidade da arena política.
+    1 - para assumir a possibilidade de homogeneidade no comportamento eleitoral é necessário que haja homogeneidade da arena política.
 
-    2 - O contexto político,  na medida em que os partidos são organizados e podem somular interesses eleitorais em diferentes características taic omo grandes e pequenas cidades, exercem grande influência no grau de homogeneidade no campo eleitoral. Talvez só exista homovgeneidade dentro de campo estrito..
+    2 - O contexto político,  na medida em que os partidos são organizados e podem somular interesses eleitorais em diferentes características tais como grandes e pequenas cidades, exercem grande influência no grau de homogeneidade no campo eleitoral. Talvez só exista homogeneidade dentro de campo estrito.
 
     3 - as escolhas eleitorais são tomadas em distintos contextos sociais nos quais difrentes características sociais e pressões de influências produzem orientações distintas para com o voto e escolha partidária.
 
@@ -66,7 +64,6 @@ Bib
     Eles mostram que os coeficientes de volatilidade são mais semelhantes dentro do que entre os distritos eleitorais e que há um efeito importante da cidade sobre os resultados. Os efeitos de vizinhança tendem a ter pouco efeitos sobre as diferenças dos coeficientes.
 
     Conclusão: há diferenças sistemáticas entre as unidades territoriais nos valores dos flows eleitorais.
-
 
 251 - Resposta e crítica à teoria
 
@@ -102,4 +99,6 @@ NP geral
 
     O contexto não se configrua simplesmente como uma parte de um todo. O nacional não é simplesmente a tendência dominante que perpassa as micro-decisões irrelevantes que vão contra a tendÊncia principal. Nesse sentido, o que é o Nacional? Ele faz sentido? Agora é mais do que isso, na verdade é a demonstração de que diferentes dinâmicas se apresentam de acordo com a unidade política em jogo. Um mesmo resultado ao norte pode ser orientado por pressões que são distintas em outra região. Ou seja, as dinâmicas dos distritos ensejam uma vida e identidade próprias.
 
-    
+    Creio que devemos aprofundar essa dimensão e tentar entender com mais afinco essa dicotomia. O que significa Nacional, portanto?
+
+    Frase do Montoro que resume: "Ninguém vive na união, ou no estado, todos vivem no município".

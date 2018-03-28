@@ -1,0 +1,156 @@
+Bib: CONVERSE, P. E. The nature of belief systems in mass publics (1964). Critical Review: A Journal of Politics and Society, v. 18, n. 1–3, p. 1–74, 2006.
+
+
+Como medir um sistema de crenças?
+
+    1
+
+    Problema da mensuração do sistema de crenças: os sistemas de crença parecem ser daquelas coisas impossíveis de serem medidas. Aqui ele critica essa posição adotada a priori pelos primeiros estudos behavioristas.
+
+    “This fragment of history, along with many others, serves to remind us that no intellectual position is likely to become obsolete quite só rapidily as one that takes current empirical capability as the limit of the possible in a more absolute sense”
+
+
+Objetivo: falar sobre os diferentes sistemas de crenças entre elites e povo.
+
+    2
+
+    Foco do artigo: sobre as diferenças na natureza dos sistemas de crença assegurados pelas elites políticas de um lado, e as massas.
+
+    Tese: há previsíveis e importantes diferenças nos mundos ideacionais a medida em que progredimos para dentro dos “estratos de crença”. Essas diferenças são facilmente negligenciadas e frequentemente mal calculadas.
+
+    Não há necessariamente um encaixe entre a ordem de crenças das elites e das massas.
+
+    Peso das crenças na ordem democrática: as teorias tendem a aumentar o peso das crenças de acordo com o número dos indivíduos que creem nela. O autor considera que a influência das massas na esfera pública devido ao seu grande número é uma ideia enviesada, que confunde o poder com o número, ou que o numero influencia nos resultados de poder.
+
+    A pirâmide de poder expressa bem como a relação numérica não encontra respaldo em uma relação de poder. Número apenas influencia o poder na medida em que ele é um recurso de poder. Nas democracias é a percepção do número pelas elites democráticas que é o fator mais importante.
+
+3
+
+I Some Clarification of Terms
+
+Ideologia x Sistema de Crenças: o autor dá preferência ao segundo termo. Sistema de crença é definido como uma configuração de ideas e atitudes nos quais os elementos estão unidos por alguma forma de interdependência funcional ou limites de crença.
+
+Nos casos estáticos: Esse limites no caso é o sucesso que podemos prever que um certo indivíduo assegura uma atitude específica dado um conhecimento prévio, Por ex: um sujeito que se opõe à expansão da Seguridade Social é provavelmente um conservador e se oporá a qualquer tipo de nacionalização do setor privado, será contra a ajuda federal ao sistema educativo e etc… (ideologia?)
+
+Nos casos dinâmicos, os limites ou interdependência referem-se a probabilidade de que uma mudança em um status percebido (confiança, desejo..) de uma ideia elementar pode psicologicamente requerer, do ponto de vista do ator, alguma mudança compensatória no status da idéia elementar em outra configuração..
+
+Ex: uma mudança em um valor verdadeiro, em uma dada estrutura de proposição lógica, necessita uma mudança no valor de outra variável relacionada à essa proposição.
+
+Idea-elements: ideias elementares do sistema de crença tem duas características:
+- varia de acordo com o papel que ela joga i sistema de crença como todo. Ou seja, devido à sua centralidade.
+
+Ex: um sujeito com fortes opiniões favoráveis a uma determinada política é muito favorável também a uma determinado partido político, reconhece que há uma coerência entre a gratificação ao partido e ao seu apreço pela política. Imagine que há uma mudança na posição do partido de tal maneira que o sujeito não possa negar que tal mudança ocorreu.
+
+Só há duas opções – ou muda sua posição quanto ao partido, ou quanto à ideia. Seu pendor para um dos lados se dará mediante à centralidade que uma das ideias tem ao seu sistema de crenças.
+
+Mudança de centralidade: as ideias elementos podem ter sua centralidade mudada ao longo do tempo.
+
+Alcance dos sistemas de crença: alguns sistemas podem ser internamente complexos mas podem ser estreitos em alcance como por ex, os sistemas de crença que concernem a rituais de barismo ou os efeitos das mudanças sobre o clima. Já outros sistemas, como por ex, os religiosos, ou de ordem política econõmica tem alcance extremo.
+
+NP: alcance aqui ele quer dizer com a força? Com o quanto aquela ideia está arraigada no sujeito?
+
+5
+
+Alcance das ideias analisadas: são as que tem um amplo alcance e mantém centralidade para assuntos políticos. Presume-se que sejam ideias que tenham relevância e influência no comportamento político.
+
+II Sources of Constraint on Idea-Elements
+
+
+Fonte das restrições: são muito menos lógicas do que psicológicas. São, porém, menos psicológicas, do que sociais.
+
+Logical Sources of Constraint
+
+Sistemas de restrições lógicos: são aqueles que os elementos sugerem resultados lógicos, ou talvez objetivos e possíveis de serem mensurados. Uma pessoa não pode acreditar que os gastos governamentais devam ser aumentados, que as receitas do governo devam ser diminuídas, e que um balanço mais favorável do orçamento possa ser alcançado ao mesmo tempo. Isso não garante, porém, que a coisa será sentida dessa maneira pelos atores. Ela só será garantida se essas ideias elementares forem trazidas juntas no mesmo sistema de crenças.
+
+NP: assim como no Brasil, nos EUA o autor cita o fato de que há muitas pessoas que querem uma diminuição dos impostos e ao mesmo tempo uma maior ampliação dos serviços públicos.
+
+6
+
+Experimento com questionário:  aplicado uma série de silogismos tipo Barbara ao longo de um questionário. As inconsistências encontradas quando os indivíduos não eram orientados.. Nã entendi direito.
+
+Barbara:
+Todo B é um A
+Todo C é um B
+Todo C é um A
+
+Tais achados sugerem que o simples pensamento sobre o domínio de uma ideia-elemento serve para  consolidar uma gama maior de tais elementos dentro de um sistema de crenças lógicos, com inconsistências resolvidas.
+
+Incongruência entre elite e eleitores: Se um legislador é conhecido por sua insistência a respeito do corte de impostos, podemos prever que ele também é a favor de uma diminuição dos serviços públicos. Entretanto, seus eleitores podem votar nele por seu entusiamos pela causa do corte de impostos, mas não se pode dizer que são em sua maioria a favor da diminuição dos serviços públicos.
+
+NP: A inconsistência lógica é resolvida no nível individual quando se chama a atenção para tal problema. Porém, as afirmações ilógicas podem ser vivenciadas fazendo com que um número grande de indivíduos as defenda abertamente, ou que se atenha à ideia elementar sem tomar consciência das inconsistências lógicas.
+
+“Yet we know that many historical observations rest directly upon the assumption that constraint among idea-elements visible at an elite level is mirrored by the same lines of constraint in the belief systems of their less visible “supporters”. It is our argument that this assumption not only can be, but is very likely to be fallacious.”
+
+7
+
+Psychological Sources of Constraint
+
+Lógica é um fator de menor conteúdo explicativo que o psicológico: o autor cita o caso de sociedades onde os elementos de crença representam uma acumulação culutral retroativa. No caso de seitas, por exemplo. Como no caso dos Shakers que tem uma forte cultura religiosa e ascética ao mesmo tempo que se comprazem com o valor das inovações tencológicas.
+
+
+Não existe uma restrição lógio-formal estrita entre ideas elementares.  O diferencial é que elites familiares experienciam e vivenciam as ideias eleentares através de um sistema formal lógico. Onde uma parte, necessariamente leva a uma outra.
+
+8
+
+Social Sources of Constraint
+
+Ocorrência das ideias: terá raízes historicamente na configuração de interesses e informações que caracterizam um nicho particular na estrutura social.
+
+Papel das visões de mundo: “The idea-elements go together not simply because both are in the interest of the person holding a particular status but for more abstract and quasi-logical reasions developed from a coherent world view as well.”
+
+
+Segunda fonte: reside em dois simples fatos sobre a criação e difusão de sistemas de crenças.
+- o ato de criação de uma sintetização lógica de sistemas de crenças é feito por uma proporção minúscula da população que crê.
+- A medida que as múltiplos idea-elements de um sistema de crenças são socialmente difundidos a partir de tais fontes de criação, elas tendem a ser difundidas em “pacotes”, que os consumidores tendem a ver como naturais, e a eles são apresentadas em tais temos. (“if you believe this, then you will also believe that, for it follow in such-and-such ways”)
+
+9
+
+Caráter associativo do consenso em torno de ideias: “any set of relatively intelligent consumers who are initially sympathetic to the crowning posture turns out to show more consensus on specific implications of the posture as a resulta of social diffusion of “what goes with what” than it would if each member were required to work out the implications individually without socially provided cues.”
+
+Transmissão da informação:
+- sem sucesso haverá pouca limitação salva que permitirá sair de sua primeira fonte social.
+- quando no começo, se torna importante distinguir entre o que vai com o que e porque. (como se encadeia o “pacote”)
+Tais níveis de informações lógicas se colocam em uma relação escalar de uma para a outra, no sentido de que uma dificilmente pode chegar a um entendimento de como duas ideias vão conjuntas sem tomar conhecimento de que elas postamente vão juntar. Por outro lado, é fácil saber que duas ideias vão juntas sem saber o por que.
+
+Ex: Comunistas são ateístas – grande parte das populações americanas entendem essa relação e concordam. O importante é que essa relação seja percebida como algo natural, assim como maçãs são vermelhas, sem a busca das raízes que fazem com que a afirmação seja verdadeira.
+
+10
+
+Transmissão: a premissa é que o primeiro tipo de informação (idéias juntas sem porque) tem uma transmissão mais rápida e fácil que o segundo tipo (as razões das idéias juntas) devido à sua baixa complexidade.
+
+Consequences of Declining Information for Belief Systems
+
+Fonte de Sistema de Crenças de Elites para de não elites: a compreensão do sistema de crenças da política padrão se perde a medida que descemos aos níveis do povo. Formas mais simples de informação do tipo “o que vai com o que” vai se fortalecendo.
+
+A medida que se desce, as limitações se deparam em um universo de ideias elementos, e o alcance dos sistemas de crenças relevantes vão se tornando cada vez mais estreitos.
+
+“Instead of a few wide-ranging belief systems that organize larger amounts of specifici information, one would expect to find a proliferation of clusters of ideas among wich little constraint is felt, even, quite often, in instances of sheer logical constraint.”
+
+Mudança da centralidade da ideia-elemento: a medida que se desce vão mudando a centralidade das ideias. As ideias elementos vão se transformando. Mudam de uma característica genérica e abstrata para conceitos mais simples e concretos.
+
+11
+
+Camadas mais baixas: as mudanças ideacionais na política começam a ter um impacto maior abaixo das finas camadas do eleitorado que tem a possibilidade de fazer pronunciamentos públicos sobre assuntos políticos. As mudanças no sistema de crenças não são uma patologia limitada a uma fina camada do lumpenproletaridao, elas são relevante para o entendimento do poder do comportamento político de massa.
+
+Um membro de uma elite que tem poder de falar publicamente sobre assuntos políticos gasta maior parte do seu tempo em comunicação informal dentro do seu grupo. Raramente encontra um ambiente onde suas ideais serão desafiadas. Ele aprendeu que o nível de informação do público de massas é baixo, mas ele pode dispender este conhecimento como verdade para um público pequeno que não tem impacto na mudança dos eventos. Ele aprende a partir dessa vivência estreita como a opinião públcia está mudando e passa a generalizar suas descobertas como se fossem de domínio amplo do público.
+
+12
+
+III Active Use of Ideological Dimensions of Judgment
+
+Conceitos que trazem em si uma série de julgamentos/ Parâmetrs: contínuo liberal-conservador, por ex. Para um melhor entendimento do termo ele deve ter conhecimento dos limites colcoados ao conceito. Deve ter, portanto, um conhecimento amplo para realizar a tarefa de uma maneira mais completa.
+
+Os ssitermas de crenças  deve estar relativamente limitados. Se estiver faltando, a incerteza é menos reduzida pelo rótulo e menos informação é transmitida.
+
+13
+
+Mudanças eleitorais: cita o caso da mudança eleitoral entre uma opção conservadora e uma liberal nos EUA ao longo de algumas décadas. Sugerem que houve um abandono das ideias liberais em prol de uma mais conservadora ao longo do tempo. Mas isso só seria possível se houvesse um espelhamento da contradição encontrada na elite e entre as massas. Pressupõe um sistema onde os indivíduos são consicentes das escolhas políticas e cientes da complexidade entre aspectos conservadores e liberais.
+
+14
+
+Entrevista: começa a delinear o método usado, com entrevistas para verificar as razões no sistema de crenças para a mudança dos liberais aos conservadores entre o eleitorado.
+
+As pessoas foram separadas em 3 grupos:
+- pessoas que baseam seus comentários em uma forma ativa e com um nível razoável de abstracionismo e dimensões concituais que funcionam como parâmetros de julgamento. (ideologue)
+- respondentes que mencionaram um dimensão conceituais de maneira periférica mas não pareceram colocar muita ênfase nessa questão. (near-ideologue)
+- respondentes que centravam suas respostas no auto-interesse desconectado essencialmente de ideias.

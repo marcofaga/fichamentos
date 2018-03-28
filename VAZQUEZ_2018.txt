@@ -1,0 +1,160 @@
+Bib
+
+    VASQUEZ, V. L. O controle do sistema de comissões e seu efeito na organização legislativa no Brasil (Versão Qualificação). Versão de Qualificação para Doutorado—Campinas: Universidade Estadual de Campinas (UNICAMP), 2018.
+
+objetivo
+
+    Verificar o papel das comissões dentro do processo de tomada de decisão legislativa e de poder estratégico.
+
+Ideia Anterior
+
+    As comissões são órgãos pró forma que não possuem um posicionamento estratégico para os partidos. Sendo uma instância de deliberação que é atropelada pelo regime de urgência dos projetos e outros mecanismos que a tornam apenas uma espécie de instância consultiva formal. As comissões não desempenham um papel estratégico para os partidos.
+
+Evidências
+
+    Mas há uma série de evidências que apontam a importância da comissão para os partidos. Existe uma certa disputa para a tomada da presidência de uma determinada comissão, como no caso do Marcos Feliciano. O autor também aponta o caso do Senador Cristovam Buarque que comanda as comissões de educação há muito tempo.
+
+    NP: Enfim, esses fenômenos respondem a algum tipo de estratégia deliberada dos partidos tendo em vista algum tipo de vantagem? Ou sua luta é apenas simbólica, apenas uma jogar para a platéia, uma maneira de se aparecer na mídia (como no caso do Feliciano) ou de estar atrelado a algum tipo de bandeira política (como no caso do Cristóvam)
+
+    Enfim, as comissões são instâncias puramente produtoras das leis e parte burocrática do processo de criação de leis, ou tem um papel estratégico, sendo parte do processo de competição partidária?
+
+Bibliografia mobilizada
+
+    Polsby e relação forma de governo e legislativo
+
+        - Polsby e a diferenciação entre arenas legislatures e transfoormative legislatures, típicas de parlamentarismo e presidencialismo. A primeire regida pela competição e a segunda de produção política. As comissões aqui são centrais no presidencialismo que se configura por um poder descentralizado. Há uma correspondência entre formas de governo e organização legislativa, portanto.
+
+    Limongi e a Jabuticaba brasileira
+
+        -  Figueiredo e Limongi: tendem a criticar a relação de Polsby para o Brasil. E assim, o presidencialismo brasileiro teria um legislativo parecido com do parlamentarismo. No entanto, o caso brasileiro não se configuraria por um tipo híbrido mas por um caso particular. Basicamente aqui o problema é que você tem uma congresso pautado pela disciplina partidária, coordenação da coalização através das lideranças partidárias e prerrogativas legislativas do executivo, especialmente a prerrogativa da urgência.  Essa prerrogativa tende a atropelar e tornar inócuo o trabalho das comissões. Assim, o sistema é presidencialista mas é pautado por uma centralização do processo legislativo nas mãos do executivo.
+
+    Revisão da Tese de Limongi: revisão do papel do dispositivo de urgência
+
+        Santos e Almeida, 2011 - As Câmaras tem um papel mais atuante no processo legislativo. As comissões conformam um lócus de produção de informação ao plena´rio sobre as políticas propostas pelo governo.
+
+        O dispositivo de urgência é lançado quando há consenso prévio. Quando não as comissões tem um papel de ampliar as informações sobre o assunto.
+
+        Freitas, 2016 - Há um processo de construção de consenso coordnado pelos partidos da maioria através dos relatores. A influência sobre o conteúdo legislativo é dada através das alterações. Os relatores tem um papel central aqui, portanto.
+
+        Urgência não é obstáculo, mas instrumento.
+
+Ponto de partida: atuação ativa das comissões. Perguntas a serem respondidas
+
+    Baseado na bibliografia que assume a importância das comissões e do papel instrumental do regime de urgência dentro da produção do consenso, o autor buscará tentar dar um passo para dentro das comissões e tentar analisar seu funcionamento a partir da ótica do processo decisório. Nesse sentido, buscará responder às perguntas sobre: a estruturação do sistema de comissões, como se dá a indicação da relatoria, quem indicam os parlamentares que irão participar delas e que, em tese, irão garantir a prevalência das preferências políticas.
+
+    NP: minha pergunta, você acha que essa dupla indicação sobre o funcionamento do legislativo, com o Limongi indicando a centralização, e a Freitas e Almeida indicando pela descentralização, é um processo endógeno do sistema legislativo brasileiro, ou é uma resposta à pressão (se é que há) da fragmentação do sistema partidário ao longo do tempo?
+
+Objetivos: quem indica, em nome de quem elas agem? Foco no recrutamento!
+
+Foco Teórico: perspectiva partidária, mas sem deixar de lado a distributivista e informacional.
+
+Tese: disciplina e especialização
+
+    pag 9: líderes partidários e fiéis são os atores políticos centrais aqui. A atuação do líder é totalmente dependente do número de fiéis que ele arregimenta e que permitem fazer com que as preferências políticas dos partidos (dos líderes?) sejam realizadas. Os fiéis, políticos disciplinados, funcionam como os braços das lideranças, alcançando todas as instâncias do processo decisório. Admitindo que as comissões tem papel de destaque, seria de esperar que os líderes confiassem fiéis para serem alçados aos postos das comissões tendo em vista poderem satisfazer as preferências políticas dos partidos. No caso, as comissões tendem a ser especializadas, e a melhor representação dos interesses se daria por políticos especializados no tema, que permitiram uma maior geração de informação crível para o Congresso, fazendo com que as chances de fazer suas preferências serem realizadas sejam maiores.
+
+    "Diante deste arranjo, os líderes, buscando fazer prevalecer os interesses partidários nas principais esferas do Legislativo, alocarão membros disciplinados e especializados em comissões estratégicas às ambições de seus partidos"
+
+    NP: explicar melhor a ideia do informacional, pq candidatos informados seria melhor? Como se dá essa ligação entre especialistas e congresso? Como assim aumentam o nível informacional? Os disciplinados eu entendo, mas qual a vantagem de que eles sejam especializados? Lendo entendi que se trata na verdade de reputação. Mas talvez fosse bom explicar essa questão para as teoria que revisionam a ideia do legislativo não atuante.. Ficou meio jogado lá em cima e poderia já preparar a ideia aqui embaixo. Especialmente na questão do não consenso.
+
+Hipótese: centralidade do tema da comissão e recrutamento
+
+    "quanto mais relevante for a temática de uma comissão para o partido, mais seu líder tenderá a alocar membros disciplinados e especialistas nesta comissão. Assim, o recrutamento seria partidário e parte do mecanismo informacional. A preferência resultante deste arranjo seria enviesada para o partido interessado que prevalecer na jurisdição." (p. 10)
+
+Tipos de seleção
+
+    Distributivista: autosseleção
+    Partidária: através dos líderes
+    informacional: não improta, contanto que a composição seja feita por especialistas.
+
+Conexão Eleitoral e Comissão
+
+    Hipótese: se a reeleição é o grande incentivo institucional que faz com que os políticos atendam suas bases eleitorais, dentro de um contexto onde a comissão tem uma centralidade enquanto instância decisória, faz sentido que os parlamentares sejam incentivados a participarem das comissões que mais permitiriam, ao mesmo, atender as suas bases. Funcionaria assim o princípio de autosseleção.
+
+Impacto sobre a formação da Comissão
+
+    A autosseleção ajudaria a conformar uma composição homogênea de parlamentares internamente. E isto se configura de forma atípica ao modo de composição do plenário.
+
+    Na teoria informacional, por outro lado, mesmo partindo da premissa da autosseleção, existiria incentivos para que os parlamentares se especializassem, como modo de diminuir as incertezas da adoção de suas políticas nos redutos, e isso faria com que..
+
+    NP: Pag 14.. Não entendi direito a relação dos incentivos para especialização de todo o plenário dentro da teoria informacional. É de todo o plenário? Ou é dos membros da comissão no tema destacado que é o tema mobilizador de sua base eleitoral? Não há logrolling dentro dessa teoria é isso?
+
+    E como assim dentro dela a comissão passa a ser composta de forma heterogênea?
+
+    "Para reduzir a incerteza e transmitir informações críveis ao plenário, as comissões precisam ter a melhor composição possível. Isto ocorrerá quanto mais heterogêneas as comissões forem internamente, pois indivíduos especialistas, agindo coletivamente, tendem a produzir informações mais completas quando as ideias são antagônicas."
+
+    Não entendi isso aqui.. p. 16
+
+    Pelo que entendi, então, as comissões funcionam como o meio termo entre uma informacional pura e a uma realidade onde o custo da informação é muito alto. As comissões tendem a ter, portanto, uma função de informar aos parlamentares sobre os custos e benefícios das políticas a serem implantadas.
+
+    "Para reduzir a incerteza e transmitir informações críveis ao plenário, as comissões precisam ter a melhor composição possível. Isto ocorrerá quanto mais heterogêneas as comissões forem internamente, pois indivíduos especialistas, agindo coletivamente, tendem a produzir informações mais completas quando as ideias são antagônicas." p. 16
+
+    Explicar melhor isso.. Acho que esse é um ponto chave. Para um leitor leigo tá díficil o entendimento.
+
+    Qual o nexo causal entre ser heterogênea ou homogênea para a informação ao plenário?
+
+    Pelo que entendi a heterogeneidade garante a diminuição da incerteza.. Esse mecanismos podia ser mais bem explicitado?
+
+E os partidos?
+
+    Parecem que somem aqui. Na teoria distributiva e informacional os partidos não possuem agência. Pois é... Estranho isso no caso brasileiro. Não há agência do partido sobre os parlamentares, estes parecem agir sozinhos aqui. Não existe uma coordenação dos líderes.
+
+    "Este esforço do partido em atuar unitariamente é custoso, por isso, esta energia só será gasta se o partido tiver protagonismo." (p. 19)
+
+    Pq é custoso?
+
+    mas o que está se entendendo por partido aqui?
+
+Dentro da teoria partidárias
+
+    A teoria partidária pressupõe então que há diferenças na composição das comissões uma vez que os partidos precisam se utilizar de algumas estrategicamente para garantir a coordenação do partido na casa. Lembrando que as comissões atendem a esse papel estratégico. E na medida que o partido tem agência, a composição das comissões terão formas distintas. Há aqui um recrutamento e não mais autosseleção dentro das comissões.
+
+    O objetivo do partido no caso é o aumento do número de cadeiras para a próxima eleição.
+
+Hipótese Geral
+
+    As comissões se estruturam pela vertente partidária mas com um mecanismos informacional. No caso brasileiro, os líderes delegam atividades e recrutam parlamentares para as comissões. Esses parlamentares precisam ser fiéis para diminuir o custo de repreensão se saírem da linha traçada pela estratégia do partido. A recompensa ao parlamentar está no fato de que ele irá ser direcionado a uma comissão de seu interesse. assim, o parlamentar por ser fiel tende a representar o partido e ao mesmo tempo o fazer com qualidade, na medida em que é um especialista. Assim, "quanto mais determinante for a jurisdição da comissão para o partido, mais seu líder tenderá a recrutar membros leais e especialistas nela." (p. 31)
+
+    NP: OK, o recrutamento do Feliciano seria explicado então pela necessidade do partido de usar a comissão para fins midiáticos (em um primeiro momento), Feliciano é, nesse sentido, um anti-especialista né? Ele está ali para cumprir um papel partidário e pessoal de encher o saco e fazer seu jogo anti-esquerdista.
+
+Metodologia
+
+    Autosseleção: proxy será a preferência temática dos projetos.
+
+    Informacional: tempo do parlamentar na comissão.
+
+    Partidária: grau de disciplina partidária em votações nominais.
+
+    Preferência do Partido ou do plenário: uso do W-Nominate como indicação de distribuição de preferências e cruzamento com os membros da comissão e da coalizão.
+
+
+    NP: você faz uma explanação muito boa das teorias e do modo como as comissões seriam compostas e funcionariam a partir delas. No fim escolhe a partidária. Mas não explica muito a razão. Qual a fraqueza das outras que justifica a sua abordagem? Pq as outras não fazem sentido para o caso brasileiro? Ou é o caso de entender que todas funcionam, apenas necessita verificar se a partidária é a mais acertada? É meio que um feeling?
+
+    NP: como pretende verificar a relação da indicação do líder? Através da mensuração do grau de disciplina? Sua ideia é tentar ver se o partido premia os fiéis certo?
+
+Questões
+
+    As bases do distributivismo?
+
+    NP: Enfim, esses fenômenos respondem a algum tipo de estratégia deliberada dos partidos tendo em vista algum tipo de vantagem? Ou sua luta é apenas simbólica, apenas uma jogar para a platéia, uma maneira de se aparecer na mídia (como no caso do Feliciano) ou de estar atrelado a algum tipo de bandeira política (como no caso do Cristóvam)
+
+    NP: Pag 14.. Não entendi direito a relação dos incentivos para especialização de todo o plenário dentro da teoria informacional. É de todo o plenário? Ou é dos membros da comissão no tema destacado que é o tema mobilizador de sua base eleitoral? Não há logrolling dentro dessa teoria é isso?
+
+    E como assim dentro dela a comissão passa a ser composta de forma heterogênea?
+
+    "Para reduzir a incerteza e transmitir informações críveis ao plenário, as comissões precisam ter a melhor composição possível. Isto ocorrerá quanto mais heterogêneas as comissões forem internamente, pois indivíduos especialistas, agindo coletivamente, tendem a produzir informações mais completas quando as ideias são antagônicas."
+
+    Não entendi isso aqui.. p. 16
+
+    Pelo que entendi, então, as comissões funcionam como o meio termo entre uma informacional pura e a uma realidade onde o custo da informação é muito alto. As comissões tendem a ter, portanto, uma função de informar aos parlamentares sobre os custos e benefícios das políticas a serem implantadas.
+
+    "Para reduzir a incerteza e transmitir informações críveis ao plenário, as comissões precisam ter a melhor composição possível. Isto ocorrerá quanto mais heterogêneas as comissões forem internamente, pois indivíduos especialistas, agindo coletivamente, tendem a produzir informações mais completas quando as ideias são antagônicas." p. 16
+
+    Explicar melhor isso.. Acho que esse é um ponto chave. Para um leitor leigo tá díficil o entendimento.
+
+    ---
+
+    NP: você faz uma explanação muito boa das teorias e do modo como as comissões seriam compostas e funcionariam a partir delas. No fim escolhe a partidária. Mas não explica muito a razão. Qual a fraqueza das outras que justifica a sua abordagem? Pq as outras não fazem sentido para o caso brasileiro? Ou é o caso de entender que todas funcionam, apenas necessita verificar se a partidária é a mais acertada? É meio que um feeling?
+
+    NP: como pretende verificar a relação da indicação do líder? Através da mensuração do grau de disciplina? Sua ideia é tentar ver se o partido premia os fiéis certo?
+
+    Fiquei pensando no caso do Feliciano.....

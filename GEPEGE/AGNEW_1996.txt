@@ -1,0 +1,158 @@
+Bib
+
+    AGNEW, J. Mapping politics: how context counts in electoral geography. Political Geography, v. 15, n. 2, p. 129–146, 1 fev. 1996.
+
+Universal x Particular
+
+    Crise das Ciências
+        O autor abre o texto dando um panorama geral sobre a suposta crise do pensamento e dos modelos de explicação no mundo pós-guerra fria. Creio que ele está se referindo aos dilemas apontados pelo modo tradicional de se fazer ciência social, norteado pela busca de modelos explicativos que amparam macro-teorias gerais sobre o comportamento humano.
+
+        Mas especificamente, o que parece que o Agnew está chamando a atenção é sobre o problema que está por trás desse dilema que decorre da separação da ação humana ora calcada em condicionantes estruturais, ora individuais. Enfim, é o debate entre estrutura e agência que se repete aqui e que vemos o Bourdieu falando, e que aparece a todo momento mesmo nos estudos sobre voto.
+
+        Agnew chama a atenção para o debate que aparece aqui sobre os elementos universais e particulares.
+
+    Universal x particular
+
+        Universal: não importa onde estejamos na superfície do globo, estamos sempre sujeitos ao mesmo conjunto de influências e isso torna a todos mais ou menos parecidos. Há sempre uma causa transcendente que as homogeiniza.
+
+        Particular: há diferenças essencials entre pessoas e lugares que se eprpetuam por causa das diferenças culturais ou divisões econômicas.
+
+        Positivismo: a vertente universal encerra uma tradição do pensamento científico onde o foco está no descobrimento de causas e efeitos universais, frequentemente associadas com as ciências naturais e com uma visão positivista de ciências social.
+
+        HUmanidades e estudos geográficos: associado aos estudos a partir de um viés particularista.
+
+        Desconforto: há um crescente desconforto com essa divisão intelectual. Ambas são inconclusivas e não parecem ser relevantes no tempo de hoje. O autor parece entender por uma visão que aglutine as duas perspectivas:
+
+        "Particular reasons and intentions can in fact be accommodated within a framework that rather than eschewing causal influences views them as the product of enduring social relations and norms specific to particular contexts." (p. 130)
+
+        Assim, o particular (particular) pode ser entendido dentro de um framework que as entenda como produto de relações sociais (estrutura) que sejam específicas a um contexto particular (particular). É um raciocínio circular, portanto. E aqui ele chama a atenção para o efeito do espaço na ação humana.
+
+        NP: como fazer ciência sem apelar para o universal?
+
+Contexto, global e local: saídas para o dilema universal x particular. Indo ao global x local
+
+    O autor compreende que o conceito de contexto funciona como uma saída para o dilema intelectual que vê a ação humana como fruto de elementos universais ou particulares. Enfim, que as vê como elementos separados e distintos. Assim, pensando contextualmente, o universal dá lugar ao global e o particular ao local. O que está por trás disso?
+
+    A ideia de que o global e local são elementpos necessariamente interelacionados geograficamente, modificado apenas pela escala, e cuja definição é dada em referência de uma a outra. Não há como desconectar o local do global e vice versa.
+
+    NP: Universal e Particular embutem um pensamento onde um elemento prescinde do outro. É como quando Durkheim fala da autonomia do fenômeno social, enquanto um fenômeno independente da soma de suas partes. O problema é que o social não existe sem as partes. Essa confusão vem da forma positivista de se pensar o mundo social que está encerrado dentro do pensamento Durkheiminano. É um pensamento estruturalista per se (pensar em Saussure, por exemplo).
+
+    NP: O outro lado do estruturalismo, dentro da tradição das ciências humanas, se dá pela fenomenologia. Onde aqui, o que vale é a experiência subjetiva dos indivíduos como elemento do conhecimento. A forma de apreensão do mundo pelo indivíduo é que se torna o foco na fenomenologia.
+
+    NP: ver também THERBORN, 2006.
+
+    Ação humana: conexão entre global e local
+
+        A ação humana conecta o global e o local à medida em que sua ação é resultado de influências que advém de várias perspectivas da escala geográfica que perpassam o indivíduo. Assim, pode-se dizer que o termo contexto permite um pensamento que não está restrito a uma determinada escala, ao mesmo tempo que contém, em si, uma referência ao espaço que transcende o impasse no qual o debate universal/particular está sujeito.
+
+        O contexto é enquadrado por um escopo de influências e
+
+        "The context refers to the geographical scope of specific influences, the limits thus set to practical reason, and the distinctive meanings or discourse associated by the human agent with living with these influences (for a similar but more analytically ‘separated’ understanding of context, see Goertz, 1994)." (p. 130)
+
+        Contexto como um escopo fr influências específicas espacializadas que agem sobre os indivíduos, e ao mesmo tempo conformam os sentidos e discuros associados à vivência destas mesmas influências.
+
+    Contexto e espaço na literatura:
+
+        Ora é pensado de maneira neutra, como um território geográfico, como um estado nação, cultura, etc, ora como o impacto do grupo social sobre seus membros. No primeiro, o espaço é um elemento neutro das quais os atributos sociais e políticos estão inscritos. É um princípio que organiza os eventos, mas não exerce influência sobre o mesmo. No segundo caso o espaço é um elemento incidental que tem efeito apenas quando o viéis no nível local do pertencimento dos grupos leva a uma refração geográfica do social ou dos processos culturais. Está nesse sentido o tal efeito de vizinhança.
+
+        NP: Essa segunda parte não entendi direito. Como se dá essa crítica? Como é pensado o espaço aqui? E como o efeito de vizinhança entra nisso?
+
+    Crítica ao modo de tratamento do espaço e lugar dentro do revival da Geografia Política nos anos 1960
+
+        Aqui o autor critica o fato de que os trabalho de geografia política, especialmente os eleitorais, ajudaram a demonstrar como o impacto do espaço e da distância acaba influenciando o comportamento político. No entanto, as teorizações sobre o espaço e o lugar caminharam separados dessa perspectiva. Enfim, a geografia política não foi acompanhada e não trouxe para dentro essa discussão.  Enfim é uma geografia que não repensa a relação entre política e espaço, que não inova teoricamente nesse aspecto.
+
+        E repensar espaço, tempo, mapeamento exige uma readequação dos conceitos básicos da teoria social.
+
+        NP: aqui está o pulo do gato. Com essa perspectiva, a própria noção do funcionamento da ação humana se modifica. Questões de teoria social estrutural-funcionalista ou fenomenológica passam a ser críticas. Enfim, existe uma dificuldade para nós, cientistas políticos, na medida em que temos um conhecimento um pouco prejudicado das principais teorias de ação social. Na medida em que tratamos a política por um viés da sociologia política, precisamos suprir essa lacuna sociológica.
+
+Adequação da Geografia Eleitoral em termos teóricos: trazendo espaço e lugar para a análise
+
+    Esse é o objetivo do texto. E aqui o Agnew dá um passo numa direção oposta a todos a tradição da geografia eleitoral que vinha desde o começo do século XX. A ideia é trazer de fato uma inovação teórica para o campo através da reconceitualização do cocneito de contexto e a superação do problema entre universal e particular. Especialmente numa época em que os antigos modelos eleitorais (baseados em preferências partidárias e divisão social do voto) não dão conta de explicar o fenômeno do voto.
+
+Divisão do artigo
+
+    1) um resumo dos conceitos de geografia contextual dados em relação ao mundo político. Especialmente o foco dentro da geografia eleitoral referente ao papel da escolha, dos processos geográficos correlacionados, e a questão partidária. Usará o caso Italiano para demonstrar tais perspectivas.
+
+    2) Conclusões sobre a natureza dos elementos contextuais e sua virtude em relação às outras alternativas
+
+Contexto e política: o que é o contexto e como ele opera na fabricação do mundo político?
+
+    "The concept of geographical context can be used to draw attention to the spatial situatedness of human action in contrast to the non-spatial sorting of people out into categories based on census and other classification schemes that inspires most conventional social science. The categorical approach suffers from a sort of ‘agnosia‘ or disorder of perception in which representations of space only set boundaries for nonspatial processes. Space is thereafter eliminated from theoretical consideration (see Agnew, 1987, 1993)." (p. 131)
+
+    NP: aqui Agnew critica o modo como o espaço é trabalhado dentro da perspectiva da geografia política traidicional. Ou seja, é um modo de trabalhar o espaço sem pensá-lo de forma teórica. O espaço é assim apeans o limite da ação social ou processos sociais não espacializadas.
+
+    O contexto do pronto de vista da explicação da ação humana envolve uma espécie de explicação configurativa na medida em que a explicação passa a ser entendida a partir de uma visão que busca estabelecer os elementos que configuram os estímulos para o comportamento dentro de uma matriz relevante de tempo e espaço. Não se trata mais de entender os comportamentos como derivados de uma abstração de um tipo ideal de indivíduo que pertence a uma estrutura. Essa perspectiva conecta os priomados teóricos da teoria da agência humana (teoria da ação social?) com o da social-geogrpahic. Ou seja, quem se comporta e os parâmetros para o comportamento.
+
+    Contexto se refere a um modo hierárquico de afunilamento de estmilos ao longo das escalas geográficas que produzem efeitos políticos e induzem omportamentos políticos.
+
+    NP: temos que entrar, talvez, por essa perspectiva dentro do trabalho de doutorado. Já que estamos trabalhando a fragmentação a partir da esfera local, e entendendo que ela impacta no nacional, podemos pensar a fragmentação local como o efeito contextual dos diferentes níveis da escala geográfica, ou do modo como tais estruturas operam a partir da geografia. A autonomia dos entes feederativos conferem os incentivos institucionais para que a política opere dentro de marcos restritos geograficamente. Mas o lugar, por outro lado, ou seja, a produção da política local, a partir dos contextos, exercerá uma influência sobre o sistema nacional também.
+
+    Micro e macro estão permanentemente mediados aqui. A política assim pode ser  entendida como:
+
+    "As a result, politics can be mapped not simply as the geographical outcome of non-spatial processes of political choice, but as a spatialized process of political influence and choice." (p. 132)
+
+Evidência Empírica de ação política espacializada: abstenção na Itália
+
+    "By way of example, recent years have seen a dramatic falling off in electoral participation in Italy. But the character of the process of decreasing electoral participation is best understood contextually. Closer analysis reveals that the highest rates of abstention are among older voters (particularly women) in the metropolitan south and young voters in the largest metropolitan areas of the north. Different sets of reasons are at work in producing this pattern; a set that in the south give rise to increased alienation from politics in general, particularly among older women, and in the metropolitan north a set that produces a protest against the existing parties on the part of the least-affiliated, younger voters (Corbetta and Parisi, 1994). It is not simply the compositional differences between different regions but the nature and understandings of politics in the regions as experienced by different groups of actors that are at play in this case." (p. 132)
+
+    NP: aqui a evidência apontada por Agnew é a de que para um mesmo resultado, existem causas distintas e contextuais. Assim, as maiores taxas de abstenção dadas em locais distintos por eleitores mais velhos nas metrópoles do sul e entre jovens eleitores no norte. É claro que entre jovens e idosos, ainda mais de localidades distintas, as tendências que levam ao mesmo resultado, sã distintas e tem a ver com o modo como cada grupo, em sua localidade, vivencia e experiencia o mundo político.
+
+Fatores de produção contextual
+
+    1) divisão social do trabalho, que se apresenta espacializado de diferentes formas ao mesmo tempo que está envolvido no ritmos das mudanças da economia global
+
+    2) natureza das comunicações e tecnologias e acesso a elas. Cria padrões de acessibilidae e isolamento que desenham lugares e as conectam em extensas redes de comunicação.
+
+    3) Os lugares estão dentro de territórios estatais. Existe sempre uma relação entre a federação e suas partes, o todo e os locais. Também encerram disputas entre localidades e partes da federação por recursos dentro de um estado desigual.
+
+    4) classes sociais, étnicas e divisões de gênero são influenciados por tendências históricas e por movimentos políticos dentro e fora.
+
+    5) Menção à dimensão local dentro dos manifestos políticos e dentro das abndeiras. Tais demandas são sentidas e geram diferentes apelos dependendo do lugar.
+
+    6) Aqui atrelado a vida cotidiana, no dia-a-dia das pessoas, cuja socialização e vivência, que se dão de forma espacializada e localmente, conformam os padrões da interação social que serão responsáveis pelo comportamento individual. "...social group formation and group (class, ethnic, and so on) consciousness are also realized in the spaces ot everyday life and by reaching beyond them through organizational ties to similar groups elsewhere (Cooke. 1985; Kstznelson, 1993; Savage. 1993)." (p. 133)
+
+    "In summary, the hierarchical-geographical context or place channels the flow of interests. influence and identity out of which political activities emanate. This approach assumes, therefore, that political behavior is inevitably structured by a changing configuration of social-geographical influences as global-local connections shift over time. The configurations of causal influences all relate back to the historical geography of the world economy at any particular time. However, because of differences in prior experiences no place can be reduced to them." (p. 133)
+
+    NP: interessante esas ideia. O contexto é um elemento calcado por um princípio historicamente e institucionalmente hierarquizado. Ele funciona como um canal cujo fluxo de interesses, influências e identidade se movem e que impactam diretamente no comportamento dos indivíduos. O comportamento político é estruturado por uma configuração de influências sociais-geográficas cambiantes. Cambiantes no sentido de que a relação entre o global e o local estão em constante mudança e se modificam ao longo do tempo. O comportamento político é dado por uma configuração caótica, cujos elementos de causalidade desse comportamento, pensando ao nível individual, podem ser resumidas como um conjunto de forças que incidem e produzem os diferentes aspectos dos processo de socialização dos viventes. Vamos tentar explicar isso de forma mais simples...
+
+    O indivíduo A mora em sua casa localizada em um bairro que congrega indivíduos da mesma classe social que a sua. Ou seja, na medida em que o lócus propicia uma vivência imediata dele com seus vizinhos, estes passam a compartilhar dos mesmos sistemas de crenças que fazem com que os seus comportamentos apresentem um certo padrão que pode ser identificado. Esse local está sujeito à uma série de influências que advém de outras escalas, como elementos da informação nacional e política que chegam a esses indivíduos. No entanto, no processo de tradução dessas influências, dado que o seu sistema de crenças foi construído de uma maneira, o comportamento será de um determinado tipo. AO mesmo tempo, tal situação social se cristaliza como efeito de um processo histórico.
+
+Diferenças entre o contexto de Agnew e o da literatura: problema para a busca de teorias e leis universais.
+
+    1) efeitos contextuais são vistos como efeitos externos em comportamento individual que nasce da interação social em um ambiente. mas na literatura clássica essa estruturação hierárquica não é examinada.
+
+    2) Movimentos políticos e partidos são tipicamente vistos como elementos exógenos ao processo espacial. Há uma ênfase geral no comportamento individual do eleitor. as instituições como ficam aqui? Estas tendem a ser vistas como elementos envolvidos na estruturação, mas não como elementos que reagem contextualmente.
+
+    NP: Aqui outro ponto do meu trabalho de doutorado. Pensar os partidos como tributários da dinâmica do contexto local.
+
+    3) Certa resistência à análises contextuais na medida em que se entende que determinados elementos como raça e renda tendem a ser características individuais. Assim, pensar contextualmente é aceitar que as diferentes designações sociais tendem a produzir comportamentos distintos e que fazem sentido apenas de maneira contextualizada e não de forma unificada ou universal. Enfim, estabelece a impossibilidade da busca científica por leis gerais dentro das ciências sociais.
+
+Estudos empíricos: 3 casos Italianos.
+
+    1) Political Geography of electoral choice
+
+        Os estudos colocaram em xeque o consenso intelectual que dizia que a política eleitoral da Itália no pós-guerra se caracterizava por uma estabilidade das preferências causada por uma limitada mobilidade eleitoral. Havia o consenso de que as divisões políticas tinham se estabilizado em torno de um padrão nacional.
+
+        Os estudos indicaram dinâmicas específicas da evoluççao eleitoral da Itália. Diferenças regionais diminuiram consderavelmente, com o surgimento de grupos localizados de eleitores que substituíram os grupos prévios de divisão de eleitores entre norte, leste e centro que eram calcados na identificação partidária. A diminuição dos cluster regionais por toda parte foi acompanhada de um processo de emergência de uma mairo variabilidade do comprotamento eleitoral calcada sobre o aumento das diferenças entre as áreas urbanas e rurais. hou ve também queda na identificação partidária e aumento das diferenciação econômica entre as partes da Italia.
+
+        NP: ou seja, envolveu uma mudança complexa que afeta diferentemente as diferentes regiões do país e que estão calcada pelo processo histórico e de desenvolvimento da economia. A perspectiva acadêmica anterior estava ancorada sobre a ideia de que o nacional se configura como um elemento unívoco que transcende as partes e por isso a estabilidade era vista como decorrente de um padrão nacional de estabilidade partidária. Exatamente o oposto. O que havia era um conjunto complexo de elementos que afetavam e geravam resultados distintos dependendo da parte afetada. E isso mesmo dentro d eum contexto de baixa da identificação partidária. Como diz o AGNEW
+
+        "Indeed, the general stability in votes cast for the main parties at the national level masks important shifts at other scales in the geographical make-up of voting blocs. This perhaps best explains ‘Mair’s paradox’, the tendency on the part of many commentators to note change in the fortunes of parties without much demonstrable change in mltio,lrrl shares of votes cast (Mair, 1993)." (p. 135)
+
+        NP: essa noção é interessante. Os efeitos vistos em nível nacional podem esconder uma série de elementos e dinâmicas contraditórias que induzem a pensar aquele cenário como proveniente de uma dinâmica universal e invariante.
+
+        Teoria de como o contexto impacta o comportamento político
+
+            O contexto difere no modo como a percepção cognitiva sobre a política se estrutura nas pessoas que vivem aquele contexto. O contexto age estruturando diretamente o domínio dos discursos e da escolha e apenas indiretamente no domínio do comportamento.
+
+    2) Volatilidade eleitoral na Itália.
+
+        Aqui é o mesmo caso que Agnew se refere em Agnew 1994. O problema aqui está no modo como efeitos agregados mascaram processos contextuais. Enfim, leva a um problema de inferência ecológica.
+
+        NP: acho que essa perspectiva contextual leva então a um outro entendimento sobre o problema da inferência ecológica. Se trataria, protanto, de um problema de escala e teórico. O efeito contextual tende a resolver esse problema? Quandoa analisamos processos globais, sim. Pois este passa a ser percebido agora como um processo dinâmico de várias partes. Ainda que talvez exista sempre um nível teórico de inferência ecológica a medida em que se aprofunda na escala.
+
+        Aqui o problema do nacional aparece de novo. Ele tende a identificar que todo o processo regional reproduz em sua escala o processo nacional. E isso não é verdade na medida em que o conjunto de elementos que formam aquele local variam à medida em que se desce para a escala do global ao local.
+
+    3) Geografia dos novos partidos
+
+        O novo sistema partidário italiano congregou uma míriade de novos partidos na década de 1990. Da primeira eleição (1994) surgiram apenas dois partidos efetivamente nacionais e os outros identificados geograficamente, seja regionalizado seja localmente.
